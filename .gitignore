@@ -1,4 +1,4 @@
 server/world
 server/libraries
-server/fabric
+server/.fabric
 server/logs

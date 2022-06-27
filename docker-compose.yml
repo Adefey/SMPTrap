@@ -1,0 +1,15 @@
+Version: 3.8
+
+services:
+
+  minecraft_server:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    volumes:
+      - ./server:/home
+    ports:
+      - 25565:25565
+    env_file:
+      - ./cfg.txt
+    restart: always

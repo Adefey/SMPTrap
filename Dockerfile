@@ -8,4 +8,4 @@ ARG NOGUI
 
 WORKDIR /home
 
-CMD java -Xms${MIN_RAM} -Xmx${MAX_RAM} -jar ${SERVER_NAME} ${NOGUI}
+CMD java -Xms${MIN_RAM} -Xmx${MAX_RAM} ${FLAGS} -jar ${SERVER_NAME} ${NOGUI}

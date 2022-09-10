@@ -7,9 +7,9 @@ services:
       context: .
       dockerfile: ./Dockerfile
     volumes:
-      - ./server:/home
+      - ./server:/home:z
     ports:
       - 25565:25565
     env_file:
       - ./cfg.txt
-    restart: always
+    #restart: always

@@ -1,0 +1,24 @@
+# This is the server motd.
+Server-MOTD:
+  Line-1: '&4&lBMSTUCraft Anarchy'
+  Line-2: '&4&lБез приватов, телепортов и правил'
+
+# The motd of the player when they join in.
+JoinGame-MOTD:
+  Enabled: false
+  # Check forum for placeholders.
+  # Supported for PlaceholderAPI placeholders.
+  Messages:
+  - '&eWelcome to the server.'
+
+# Server icon.
+Custom-Server-Icon:
+  # Set to true will load image from motd folder.
+  Enabled: true
+  # Make sure it's 64 x 64 pixels with png format.
+  Image: server-icon.png
+
+# The maximum players of the server.
+Server-Maximum-Players:
+  Modify: true
+  Maximum-Players: 1830

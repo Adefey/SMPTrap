@@ -1,0 +1,130 @@
+#    ___                __  __
+#   /___\_ __   ___  /\ \ \/ /  ___   __ _(_)_ __
+#  //  // '_ \ / _ \/  \/ / /  / _ \ / _` | | '_ \
+# / \_//| |_) |  __/ /\  / /__| (_) | (_| | | | | |
+# \___/ | .__/ \___\_\ \/\____/\___/ \__, |_|_| |_|
+#       |_|                          |___/
+
+# Official Website: https://www.nickuc.com
+# Discord: https://www.nickuc.com/discord
+
+# Do not change this setting
+file-version: 2
+
+Messages:
+  Title:
+    # Message sent before login
+    before-login:
+      title: "&a&lДобро пожаловать!"
+      subtitle: "&7Напишите для входа: /login <пароль>"
+      delays:
+        start: 0
+        duration: 9999
+        end: 6
+    # Message sent before registration
+    before-register:
+      title: "&a&lДобро пожаловать!"
+      subtitle: "&7Напишите для регистрации: /register <новый пароль> <повтор пароля>"
+      delays:
+        start: 0
+        duration: 9999
+        end: 6
+    # Message sent after login
+    after-login:
+      title: ""
+      subtitle: "&aВы успешно вошли!"
+      delays:
+        start: 0
+        duration: 60
+        end: 6
+    # Message sent after register
+    after-register:
+      title: ""
+      subtitle: "&aВы успешно зарегистрировались!"
+      delays:
+        start: 0
+        duration: 60
+        end: 6
+
+  delay-kick:
+    # Message sent when a user takes a long time to register
+    register-kick: "&cСлишком долго регистрируешься..."
+
+    # Message sent when a user takes a long time to log in
+    login-kick: "&cСлишком долго входишь..."
+
+  successful-operations:
+    # Message when a user exchanges their password
+    password-changed: "&aПароль изменен"
+
+    # Message sent when a user successfully logs
+    successful-login: "&aВы успешно вошли"
+
+    # Message sent when a user successfully registers
+    successful-register: "&aВы успешно зарегистрировались"
+
+    # Message sent when a player successfully disregisters
+    unregister-kick: "&cВы успешно разрегистрировались"
+
+  kick-messages:
+    # Message when a player tries to log on to the server with a small difference in the nickname
+    nick-already-registered: "&cНельзя зайти с ником {0}&r\n&r&cЭтот ник уже зарегистрирован как {1}&r\n&r\n&r&cПоменяйте ник"
+
+    # Message sent when a user misses many times
+    failed-many-times: "&cНеверный пароль"
+
+    # Message sent when password entered is incorrect
+    incorrect-password: "&cНеверный пароль"
+
+    # Message sent when a player enters an invalid nickname.
+    invalid-nickname: "&cНеправильный ник"
+
+  error-messages:
+    # Message sent when you are already logged in.
+    already-login: "&cВы уже вошли"
+
+    # Message sent when a nickname has already been registered.
+    already-registered: "&cЭтот ник уже зарегистрирован"
+
+    # Message sent when a nickname has not yet been registered.
+    not-registered: "&cЭтот ник еще не был зарегистрирован"
+
+    # Message sent when the entered password is not equal to the second
+    passwords-dont-match: "&cРазные пароли"
+
+    # Message sent when a player tries to change password by entering the same password as the current
+    password-same-as-old: "&cПароли совпадают"
+
+    # Message sent when the password entered is too large
+    password-too-large: "&cСлишком длинный пароль"
+
+    # Message sent when the password entered is too small
+    password-too-small: "&cСлишком короткий пароль"
+
+    # Message when a player does not possess the required permission
+    insufficient-permissions: "&cНет прав для этой команды"
+
+    # Message to kick a player now online
+    already-online: "&cЭтот игрок уже в игре"
+
+    # Message to show that the command cannot be executed via console
+    player-command-usage: "&cThis command has been disabled via console."
+
+    # Message shown when the plugin is reloaded.
+    plugin-reload-message: "&eThe plugin has been successfully reloaded."
+
+    # Message sent when a database operation has not been successfully performed
+    database-error: "&cSorry, we were unable to complete this operation. Please try again. [SQL FAIL]"
+
+  other-messages:
+    # Mensagem enviada para o uso do comando /logar
+    message-login: "&7Напишите для входа: /login <пароль>"
+
+    # Mensagem enviada para o uso do comando /register
+    message-register: "&7Напишите для регистрации: /register <новый пароль> <повтор пароля>"
+
+    # Mensagem enviada para o uso do comando /mudarsenha
+    message-changepassword: "&eНапишите чтобы сменить пароль: /changepassword <текущий пароль> <новый пароль>"
+
+    # Message sent to use the /unregister command
+    message-unregister: "&eНапишите чтобы разрегистрироваться: /unregister <пароль>"

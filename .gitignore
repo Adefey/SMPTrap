@@ -2,3 +2,5 @@ server/world
 server/libraries
 server/.fabric
 server/logs
+server/cache
+server/libraries

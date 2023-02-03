@@ -1,0 +1,25 @@
+{
+    "name": "God Favors & Reputations",
+    "icon": "the_vault:idol_timekeeper",
+    "category": "patchouli:game_mechanics_category",
+    "read_by_default": "true",
+    "pages": [
+
+      {
+        "type": "patchouli:spotlight",
+        "item": "the_vault:idol_malevolence{Damage:0,vaultGearData:[L;-2004474927538488999L,6443510159987737657L,1514722424829610072L,3527585455153845571L,2753168875257675788L,2398521632831768087L,1245127937339252741L,2398609926519996488L,1245127937339252741L,-8137835149317216184L,-4233005412219981805L,520329610049676624L,-3981101458868912896L,6341429268546846720L,-9059530355420117695L,-8852810230015192299L,-7688114002436194284L,5122827361L,24361054502912L,5937441954827599872L,7018104402461851976L,5644368543509169432L,3552825609036522818L,-4430108270169948083L,-3252466605177517338L,4708514820547080936L,3787533110873510085L,27181507917L,369657218007564288L,370777952194200928L,107573162590786L,7793569040240214016L,-8274154653614568274L,-9217596137199989459L,23856148164400149L,456029879021151556L,576460752303423488L,2056L]}",
+        "title": "God Favors",
+        "text": "When completing a Vault God Altar inside The Vault, a $(l)Vault God Favor$() might be gained. $(br2)A Vault God Favor is a $(l)positive buff$() automatically applied to the next vault run, specific to the player."
+      },
+
+        {
+          "type": "patchouli:text",
+          "title": "God Reputations",
+          "text": "A total of $(l)100 reputation points$() are available for each Vault God. The reputation of a Vault God is increased when a vault with an active Vault God Favor is completed. The higher the reputation, the higher the value of the favor. $(br2)When a total of 100 reputation points is obtained, a Vault God specific $(l)armor set$() is rewarded."
+
+
+        }
+
+    ]
+
+}

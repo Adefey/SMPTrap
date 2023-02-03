@@ -1,0 +1,80 @@
+{
+  "perRecoveryMultiplierIncrease": 0.5,
+  "perCompletionMultiplierDecrease": 0.05,
+  "heroDiscountMin": 0.0,
+  "heroDiscountMax": 0.0,
+  "rescuedBonusMin": 0.3,
+  "rescuedBonusMax": 0.9,
+  "levelCosts": [
+    {
+      "minLevel": 0,
+      "item": "the_vault:vault_bronze",
+      "count": 4,
+      "gearRarityCost": {
+        "SCRAPPY": 0,
+        "COMMON": 0,
+        "RARE": 1,
+        "EPIC": 2,
+        "OMEGA": 3,
+        "UNIQUE": 0
+      },
+      "trinketCost": 10
+    },
+    {
+      "minLevel": 20,
+      "item": "the_vault:vault_silver",
+      "count": 2,
+      "gearRarityCost": {
+        "SCRAPPY": 0,
+        "COMMON": 1,
+        "RARE": 2,
+        "EPIC": 4,
+        "OMEGA": 5,
+        "UNIQUE": 0
+      },
+      "trinketCost": 12
+    },
+    {
+      "minLevel": 40,
+      "item": "the_vault:vault_silver",
+      "count": 3,
+      "gearRarityCost": {
+        "SCRAPPY": 0,
+        "COMMON": 2,
+        "RARE": 6,
+        "EPIC": 12,
+        "OMEGA": 18,
+        "UNIQUE": 0
+      },
+      "trinketCost": 24
+    },
+    {
+      "minLevel": 50,
+      "item": "the_vault:vault_silver",
+      "count": 5,
+      "gearRarityCost": {
+        "SCRAPPY": 0,
+        "COMMON": 3,
+        "RARE": 18,
+        "EPIC": 32,
+        "OMEGA": 64,
+        "UNIQUE": 0
+      },
+      "trinketCost": 54
+    },
+    {
+      "minLevel": 65,
+      "item": "the_vault:vault_gold",
+      "count": 1.0,
+      "gearRarityCost": {
+        "SCRAPPY": 0,
+        "COMMON": 1,
+        "RARE": 5,
+        "EPIC": 9,
+        "OMEGA": 13,
+        "UNIQUE": 0
+      },
+      "trinketCost": 16
+    }
+  ]
+}

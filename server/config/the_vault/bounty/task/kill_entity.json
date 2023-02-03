@@ -1,0 +1,374 @@
+{
+  "LEVELS": {
+    "0": {
+      "pool": [
+        {
+          "rewardPool": "common",
+          "value": {
+            "value": "minecraft:skeleton",
+            "amount": {
+              "min": 10,
+              "max": 50
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true
+          },
+          "weight": 3
+        },
+        {
+          "rewardPool": "common",
+          "value": {
+            "value": "minecraft:stray",
+            "amount": {
+              "min": 10,
+              "max": 50
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true
+          },
+          "weight": 1
+        },
+        {
+          "rewardPool": "common",
+          "value": {
+            "value": "minecraft:zombie",
+            "amount": {
+              "min": 10,
+              "max": 50
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true
+          },
+          "weight": 5
+        },
+        {
+          "rewardPool": "common",
+          "value": {
+            "value": "minecraft:husk",
+            "amount": {
+              "min": 10,
+              "max": 50
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true
+          },
+          "weight": 5
+        },
+        {
+          "rewardPool": "common",
+          "value": {
+            "value": "minecraft:drowned",
+            "amount": {
+              "min": 10,
+              "max": 50
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true
+          },
+          "weight": 2
+        },
+        {
+          "rewardPool": "common",
+          "value": {
+            "value": "quark:wraith",
+            "amount": {
+              "min": 10,
+              "max": 50
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true
+          },
+          "weight": 4
+        },
+        {
+          "rewardPool": "common",
+          "value": {
+            "value": "the_vault:vault_fighter",
+            "amount": {
+              "min": 10,
+              "max": 50
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true
+          },
+          "weight": 5
+        },
+        {
+          "rewardPool": "common",
+          "value": {
+            "value": "the_vault:vault_spider",
+            "amount": {
+              "min": 10,
+              "max": 50
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true
+          },
+          "weight": 3
+        }
+      ]
+    },
+    "10": {
+      "pool": [
+        {
+          "rewardPool": "common",
+          "value": {
+            "value": "minecraft:skeleton",
+            "amount": {
+              "min": 40,
+              "max": 110
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true
+          },
+          "weight": 3
+        },
+        {
+          "rewardPool": "common",
+          "value": {
+            "value": "minecraft:stray",
+            "amount": {
+              "min": 40,
+              "max": 110
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true
+          },
+          "weight": 1
+        },
+        {
+          "rewardPool": "common",
+          "value": {
+            "value": "minecraft:zombie",
+            "amount": {
+              "min": 40,
+              "max": 110
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true
+          },
+          "weight": 5
+        },
+        {
+          "rewardPool": "common",
+          "value": {
+            "value": "minecraft:husk",
+            "amount": {
+              "min": 40,
+              "max": 110
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true
+          },
+          "weight": 5
+        },
+        {
+          "rewardPool": "common",
+          "value": {
+            "value": "minecraft:drowned",
+            "amount": {
+              "min": 40,
+              "max": 110
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true
+          },
+          "weight": 2
+        },
+        {
+          "rewardPool": "common",
+          "value": {
+            "value": "quark:wraith",
+            "amount": {
+              "min": 40,
+              "max": 110
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true
+          },
+          "weight": 4
+        },
+        {
+          "rewardPool": "common",
+          "value": {
+            "value": "the_vault:vault_fighter",
+            "amount": {
+              "min": 40,
+              "max": 110
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true
+          },
+          "weight": 5
+        },
+        {
+          "rewardPool": "common",
+          "value": {
+            "value": "the_vault:vault_spider",
+            "amount": {
+              "min": 40,
+              "max": 110
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true
+          },
+          "weight": 3
+        }
+      ]
+    },
+    "20": {
+      "pool": [
+        {
+          "rewardPool": "common",
+          "value": {
+            "value": "minecraft:skeleton",
+            "amount": {
+              "min": 60,
+              "max": 235
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true
+          },
+          "weight": 3
+        },
+        {
+          "rewardPool": "common",
+          "value": {
+            "value": "minecraft:piglin",
+            "amount": {
+              "min": 60,
+              "max": 235
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true
+          },
+          "weight": 1
+        },
+        {
+          "rewardPool": "common",
+          "value": {
+            "value": "minecraft:stray",
+            "amount": {
+              "min": 60,
+              "max": 235
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true
+          },
+          "weight": 1
+        },
+        {
+          "rewardPool": "common",
+          "value": {
+            "value": "minecraft:zombie",
+            "amount": {
+              "min": 60,
+              "max": 235
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true
+          },
+          "weight": 5
+        },
+        {
+          "rewardPool": "common",
+          "value": {
+            "value": "minecraft:husk",
+            "amount": {
+              "min": 60,
+              "max": 235
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true
+          },
+          "weight": 5
+        },
+        {
+          "rewardPool": "common",
+          "value": {
+            "value": "minecraft:drowned",
+            "amount": {
+              "min": 60,
+              "max": 235
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true
+          },
+          "weight": 2
+        },
+        {
+          "rewardPool": "common",
+          "value": {
+            "value": "quark:wraith",
+            "amount": {
+              "min": 60,
+              "max": 235
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true
+          },
+          "weight": 4
+        },
+        {
+          "rewardPool": "common",
+          "value": {
+            "value": "the_vault:vault_fighter",
+            "amount": {
+              "min": 60,
+              "max": 235
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true
+          },
+          "weight": 5
+        },
+        {
+          "rewardPool": "common",
+          "value": {
+            "value": "the_vault:vault_spider",
+            "amount": {
+              "min": 60,
+              "max": 235
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true
+          },
+          "weight": 3
+        }
+      ],
+      "amount": {
+        "min": 60,
+        "max": 235
+      },
+      "floorToNearestTen": false,
+      "validDimensions": [
+      ],
+      "vaultOnly": true
+    }
+  }
+}

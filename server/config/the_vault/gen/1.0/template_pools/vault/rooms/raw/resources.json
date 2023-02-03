@@ -1,0 +1,22 @@
+[
+    {
+      "weight": 5,
+      "reference": "the_vault:vault/rooms/raw/farm"
+    },
+    {
+      "weight": 5,
+      "reference": "the_vault:vault/rooms/raw/quarry"
+    },
+    {
+      "weight": 2,
+      "reference": "the_vault:vault/rooms/raw/nether"
+    },
+    {
+      "weight": 2,
+      "reference": "the_vault:vault/rooms/raw/chromatic_caves"
+    },
+    {
+      "weight": 2,
+      "reference": "the_vault:vault/rooms/raw/modded_caves"
+    }
+  ]

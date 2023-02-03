@@ -1,0 +1,32 @@
+{
+    "name": "Spirit Retrieval",
+    "icon": "the_vault:spirit_extractor",
+    "category": "patchouli:game_mechanics_category",
+    "read_by_default": "true",
+    "pages": [
+
+        {
+          "type": "patchouli:text",
+          "text": "The spirit extraction system is a way to $(l)retrieve your items$() upon a vault death. To extract the items of a spirit, the spirit needs to be placed onto the $(l)Spirit Extractor$() $(br2)$(l)Please note: This system and it's costs are still under development and might change later on.$()"
+        },
+
+        {
+          "type": "patchouli:crafting",
+          "recipe": "the_vault:spirit_extractor",
+          "text": "The cost of extracting items out of a spirit increases each time the player revives a spirit. The costs slowly decrease when the player completes a Vault Objective."
+        },
+
+        {
+          "type": "patchouli:text",
+          "title": "Spirit appearences",
+          "text": "When dying in a $(l)solo vault$(), a spirit will appear at the $(l)player's Overwold spawn location$(). $(br2)When in a $(l)cooperative vault$(), as long as there is a team player alive inside the vault, the spirit will appear at the $(l)death point in the vault$() for a fellow team player to retrieve and bring back to the Overworld by throwing it through the Vault Portal."
+        },
+
+        {
+          "type": "patchouli:text",
+          "text": "When a player is the last to die inside a cooperative vault, their spirit will spawn at the player's spawn location in the Overworld. $(br2) Note that spirits won't appear when playing in $(l)Casual Mode$() or having an inventory restore modifier applied like $(l)Phoenix$() or $(l)Afterlife.$()"
+        }
+
+    ]
+
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Soul Shards",
+    "icon": "the_vault:soul_shard",
+    "category": "patchouli:game_mechanics_category",
+    "read_by_default": "true",
+    "pages": [
+
+        {
+          "type": "patchouli:spotlight",
+          "item": "the_vault:soul_shard",
+          "text": "$(l)Soul Shards$() are items dropped by mobs in The Vault. They can be automatically collected in unlimited numbers in the $(l)Soul Shard Pouch.$()"
+        },
+
+        {
+          "type": "patchouli:crafting",
+          "recipe": "the_vault:vault_diffuser",
+          "text": "Many Vault Items have a $(l)Soul Value$(). The Soul Value can be converted to $(l)Soul Dust$() in the $(l)Vault Soul Diffuser$(). Soul dust can be crafted into Soul Shards."
+        },
+
+        {
+          "type": "patchouli:crafting",
+          "recipe": "the_vault:black_market",
+          "text": "The Black Market is a shop to convert $(l)Soul Shards$() to $(l)Vault Items$(). The listed items in the Black Market are individual by each player."
+        },
+
+        {
+          "type": "patchouli:text",
+          "text": "The Black Market's stock resets after buying one of the listed items or automatically after 24 hours. Buying a random item does not reset listed items."
+        }
+
+
+
+
+    ]
+
+}

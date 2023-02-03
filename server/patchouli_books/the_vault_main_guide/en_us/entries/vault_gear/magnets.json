@@ -1,0 +1,22 @@
+{
+    "name": "Magnets",
+    "icon": "the_vault:magnet",
+    "category": "patchouli:vault_gear",
+    "read_by_default": "true",
+    "pages": [
+
+        {
+          "type": "patchouli:crafting",
+          "recipe": "the_vault:magnet",
+          "title": "Magnets",
+          "text": "$(l)Magnets$() are used to pull items towards the player when equipped. Around a $(l)Demagnetizer$() a magnet is disabled. A Magnet can also be disabled when in the $(l)curio slot Belt$()."
+        },
+
+        {
+          "type": "patchouli:text",
+          "text": "A Magnet's Durability, Range, Velocity and Mana Efficiency can be $(l)upgraded$() in the $(l)Magnet Modification Table.$()$(br2)When the $(l)durability$() of a magnet runs out, it can be repaired with a $(l)Repair Core$() as long as it has repair slots remaining."
+        }
+
+    ]
+
+}

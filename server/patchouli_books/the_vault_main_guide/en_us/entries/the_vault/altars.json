@@ -1,0 +1,20 @@
+{
+    "name": "God Altars",
+    "icon": "the_vault:xp_altar",
+    "category": "patchouli:the_vault_category",
+    "read_by_default": "true",
+    "pages": [
+
+        {
+          "type": "patchouli:text",
+          "text": "You may stumble upon a $(l)Vault God Altar$() inside the Vault. Each one of the Vault God's has a different requirement to complete. $(br) $(li) Idona asks for mob kills $(li) Tenos asks for exp levels $(li) Wendarr asks for time $(li) Velara asks for health$() $(br2)The requirements are scaled to Vault Level."
+        },
+        {
+          "type": "patchouli:text",
+          "text": "When completing an altar, you either obtain the Vault God's $(l)Idol$() or the Vault Gods $(l)Blessing$(). The Vault Gods Blessing is used to craft an Idol in the $(l)Vault Forge$(). Additionally, there is a small chance of gaining a Vault God $(l)Favor$(), which is a positive buff that will be applied next vault. $(br2)Completing an altar is currently not affected by carrying the corresponding idol. "
+        }
+
+
+    ]
+
+}

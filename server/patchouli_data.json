@@ -1,0 +1,63 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "rftoolsbase:manual": {
+      "viewedEntries": [
+        "rftoolsbase:tools/craftingcard"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "botania:lexicon": {
+      "viewedEntries": [
+        "botania:baubles/diva_charm",
+        "botania:baubles/goddess_charm"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "patchouli:the_vault_main_guide": {
+      "viewedEntries": [
+        "patchouli:blocks_items/chromatic_iron",
+        "patchouli:blocks_items/vault_rock",
+        "patchouli:vault_gear/transmogrification",
+        "patchouli:blocks_items/artifacts",
+        "patchouli:blocks_items/idols",
+        "patchouli:blocks_items/gems",
+        "patchouli:blocks_items/crystal",
+        "patchouli:the_vault/catalysts",
+        "patchouli:the_vault/coop",
+        "patchouli:the_vault/altars",
+        "patchouli:the_vault/layout",
+        "patchouli:the_vault/loot",
+        "patchouli:the_vault/bosses",
+        "patchouli:the_vault/modifiers",
+        "patchouli:the_vault/objectives",
+        "patchouli:the_vault/treasure_rooms",
+        "patchouli:vault_gear/idols",
+        "patchouli:vault_gear/recycler",
+        "patchouli:game_mechanics/pickaxes",
+        "patchouli:vault_gear/forge",
+        "patchouli:vault_gear/leveling",
+        "patchouli:vault_gear/magnet_table",
+        "patchouli:vault_gear/magnets",
+        "patchouli:vault_gear/types",
+        "patchouli:vault_gear/artisan_station",
+        "patchouli:the_vault/portal",
+        "patchouli:game_mechanics/abilities",
+        "patchouli:game_mechanics/archetypes",
+        "patchouli:game_mechanics/cooperative",
+        "patchouli:game_mechanics/leveling",
+        "patchouli:game_mechanics/researches",
+        "patchouli:game_mechanics/talents",
+        "patchouli:game_mechanics/gods",
+        "patchouli:vault_gear/dolls",
+        "patchouli:vault_gear/trinkets",
+        "patchouli:blocks_items/statues"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

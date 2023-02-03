@@ -1,0 +1,41 @@
+{
+  "totalBountyCount": 3,
+  "maxActive": 1,
+  "abandonedPenaltySeconds": 28800,
+  "waitingPeriodSeconds": 3600,
+  "weightedTaskList": [
+    {
+      "value": "the_vault:kill_entity",
+      "weight": 3
+    },
+    {
+      "value": "the_vault:item_submission",
+      "weight": 3
+    },
+    {
+      "value": "the_vault:item_discovery",
+      "weight": 3
+    },
+    {
+      "value": "the_vault:completion",
+      "weight": 3
+    },
+    {
+      "value": "the_vault:damage_entity",
+      "weight": 0
+    },
+    {
+      "value": "the_vault:mining",
+      "weight": 3
+    }
+  ],
+  "rerollBronzeCost": {
+    "0": 8,
+    "10": 32,
+    "15": 64,
+    "30": 128,
+    "40": 192,
+    "45": 256
+    
+  }
+}

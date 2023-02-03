@@ -1,0 +1,22 @@
+{
+    "name": "Vault Recycler",
+    "icon": "the_vault:vault_recycler",
+    "category": "patchouli:vault_gear",
+    "read_by_default": "true",
+    "pages": [
+
+        {
+          "type": "patchouli:crafting",
+          "recipe": "the_vault:vault_recycler",
+          "text": "The $(l)Vault Recycler$() is a recyling bench for Vault Armor, Tools and Idols. Unidentified items can also be recycled."
+        },
+        {
+          "type": "patchouli:text",
+          "text": "Vault Trinkets are recycled for $(l)Trinket Scrap$() that can be used to create new Trinkets in the $(l)Vault Forge$(). $(br2)Recycling Vault Gear will reward pieces of $(l)Vault Scrap$() are rewarded together with a chance for any $(l)Focus$() and an additional chance for a $(l)Painite Gem.$()$(br2)If the Trinket or Vault Gear has been used, it will result in less rewards when recycled."
+        }
+
+
+
+    ]
+
+}

@@ -21,7 +21,7 @@
 	#Range: 0.0 ~ 24.0
 	render_distance = 24.0
 	#Overrides an item's beam color with hex color. Must follow the specific format: (registryname=hexcolor) Or (#tagname=hexcolor). Example: "minecraft:stone=0xFFFFFF". This also accepts modids.
-	color_overrides = ["the_vault:unidentified_artifact=0xFFA800", "the_vault:vault_artifact=0xFFA800"]
+	color_overrides = ["the_vault:unidentified_artifact=0xFFA800", "the_vault:vault_artifact=0xFFA800", "the_vault:trinket=0xFFA800"]
 
 	#Item Config
 	["Loot Beams".Items]
@@ -32,7 +32,7 @@
 		#If Loot Beams should only be rendered on equipment. (Equipment includes: Swords, Tools, Armor, Shields, Bows, Crossbows, Tridents, Arrows, and Fishing Rods)
 		only_equipment = false
 		#Registry names of items that Loot Beams should render on. Example: "minecraft:stone", "minecraft:iron_ingot", You can also specify modids for a whole mod's items.
-		whitelist = ["the_vault:chestplate", "the_vault:leggings", "the_vault:helmet", "the_vault:boots", "the_vault:idol_benevolent", "the_vault:idol_omniscient", "the_vault:idol_timekeeper", "the_vault:idol_malevolence", "the_vault:axe", "the_vault:sword", "the_vault:shield", "the_vault:unidentified_artifact", "the_vault:vault_artifact"]
+		whitelist = ["the_vault:chestplate", "the_vault:leggings", "the_vault:helmet", "the_vault:boots", "the_vault:idol_benevolent", "the_vault:idol_omniscient", "the_vault:idol_timekeeper", "the_vault:idol_malevolence", "the_vault:axe", "the_vault:sword", "the_vault:shield", "the_vault:unidentified_artifact", "the_vault:vault_artifact", "the_vault:jewel"]
 		#Registry names of items that Loot Beams should NOT render on. This has priority over everything. You can also specify modids for a whole mod's items.
 		blacklist = []
 

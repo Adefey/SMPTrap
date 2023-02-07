@@ -1,0 +1,51 @@
+{
+    "name": "Tool Crafting",
+    "icon": "the_vault:tool_station",
+    "category": "patchouli:vault_gear",
+    "read_by_default": "true",
+    "pages": [
+
+        {
+          "type": "patchouli:crafting",
+          "recipe": "the_vault:tool_station",
+          "text": "$(l)The Tool Station$() is used to create any $(l)base tool:$()$(br) $(li)Pick $(li)Shovel $(li)Axe $(li)Hammer $(li)Sickle  "
+        },
+
+        {
+          "type": "patchouli:text",
+          "title": "Tool Tiers",
+          "text": "The base tools are available in $(l)7 different tiers$(), gated behind Vault Level.$(br) $(li)Chromatic Iron, $(li)Chromatic Steel $(li)Black Chromatic Steel $(li)Melded $(li)Vaulterite $(li)Echoing $(li)Prismatic $(br2)The higher the tier, the more $(l)repair slots$() and the more $(l)capacity$() the tool has."
+        },
+
+        {
+          "type": "patchouli:spotlight",
+          "item": "the_vault:jewel",
+          "title": "Jewels",
+          "text": "Use Jewels to enhance your tool. Jewels can be crafted in the $(l)Tool Forge$() and found in $(l)Gilded Chests$() in The Vault. Jewels are found in 4 rarities: $(l)Chipped, Flawed, Flawless and Perfect$(). The rarity determines the modifiers the Jewel rolls. The Jewel's level is equal to the player's Vault Level."
+        },
+
+        {
+          "type": "patchouli:text",
+          "title": "Jewels - continued",
+          "text": "Jewels can roll a huge variety of tool modifications. They can improve mining speed, item quantity and rarity, but they can also roll the base use of another tool. Meaning if a Jewel has the modifier $(l)axing$(), it gives the modified tool the usages of an axe. $(br2)To break certain chests in The Vault with a tool, a Jewel with chest type modification is needed, like $(l)Ornate Affinity$(). "
+        },
+
+        {
+          "type": "patchouli:text",
+          "title": "Tool Enhancing",
+          "text": "Use any base tool with a jewel in an anvil to enhance the tool, as long as the tool has $(l)enough capacity$() to fit the $(l)size$() of the Jewel. If the capacity of a tool is lower than the size of a Jewel, it cannot be applied. $(br2)The $(l)level$() of the tool will be equated to the level of the Jewel it is combined with. A player is unable to use a tool if the tool has a higher level."
+        },
+
+        {
+          "type": "patchouli:spotlight",
+          "item": "the_vault:tool{Damage:0,color:[I;],offset:0L,vaultGearData:[L;-6721580709242964375L,3320380748389383270L,1514722424829605913L,4616400934536516931L,-9223372020323938111L,423054278680L,-8852492746032676864L,-8559560530332385260L,18372019767163027L,288230376101658624L,4L,4833775685013162312L,6063184587157488789L,-68719411194L,4111L,6058889699318423552L,4633360432631010572L,-33553231339L,4111L,1549260833888968704L,-3592552224287028140L,35321811042289L,741475457400045568L,-8026353413003739095L,-124858355143993L,16842751L,92414287422685184L,-8334767744616152744L,2305843008962974960L,32L,64L]}",
+          "title": "Tool Appearances",
+          "text": "Combining a base tool with a Jewel that has another base tool's modification, it may change the $(l)appearance$() of a tool. For example, combing a Pick with an Axing Jewel (or the other way around, an Axe with a Picking Jewel), it creates a $(l)Scythe$(). There are $(l)16$() different combination tools to $(l)Collect$()"
+        }
+
+
+
+
+    ]
+
+}

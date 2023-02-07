@@ -18,7 +18,7 @@
         }
       ]
     },
-    "10": {
+    "50": {
       "pool": [
         {
           "rewardPool": "common",
@@ -31,84 +31,6 @@
             "floorToNearestTen": false,
             "validDimensions": [],
             "vaultOnly": false
-          },
-          "weight": 6
-        }
-      ]
-    },
-    "20": {
-      "pool": [
-        {
-          "rewardPool": "common",
-          "value": {
-            "value": "vault",
-            "amount": {
-              "min": 1,
-              "max": 2
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": true
-          },
-          "weight": 10
-        },
-        {
-          "rewardPool": "common",
-          "value": {
-            "value": "cake",
-            "amount": {
-              "min": 1,
-              "max": 1
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": true
-          },
-          "weight": 1
-        },
-        {
-          "rewardPool": "common",
-          "value": {
-            "value": "scavenger",
-            "amount": {
-              "min": 1,
-              "max": 1
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 3
-        },
-        {
-          "rewardPool": "common",
-          "value": {
-            "value": "boss",
-            "amount": {
-              "min": 1,
-              "max": 1
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 3
-        }
-      ]
-    },
-    "40": {
-      "pool": [
-        {
-          "rewardPool": "common",
-          "value": {
-            "value": "vault",
-            "amount": {
-              "min": 1,
-              "max": 3
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": true
           },
           "weight": 4
         },
@@ -122,7 +44,7 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": false
           },
           "weight": 1
         },
@@ -138,7 +60,7 @@
             "validDimensions": [],
             "vaultOnly": false
           },
-          "weight": 6
+          "weight": 10
         },
         {
           "rewardPool": "common",
@@ -152,7 +74,7 @@
             "validDimensions": [],
             "vaultOnly": false
           },
-          "weight": 6
+          "weight": 10
         }
       ]
     }

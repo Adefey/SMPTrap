@@ -30,6 +30,14 @@
       "AMBIENT": {
         "spawnGroup": "AMBIENT",
         "limit": -1
+      },
+      "UNDERGROUND_WATER_CREATURE": {
+        "spawnGroup": "UNDERGROUND_WATER_CREATURE",
+        "limit": -1
+      },
+      "AXOLOTLS": {
+        "spawnGroup": "AXOLOTLS",
+        "limit": -1
       }
     }
   },

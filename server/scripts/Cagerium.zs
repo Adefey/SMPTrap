@@ -15,9 +15,9 @@ craftingTable.addShaped("cage_piece", <item:ispawner:cage_piece>, [
 ]);
 
 craftingTable.addShaped("survival_spawner", <item:ispawner:survival_spawner>, [
-    [<item:the_vault:chromatic_steel_block>, <item:ispawner:cage_piece>, <item:the_vault:chromatic_steel_block>],
-    [<item:ispawner:cage_piece>, <item:the_vault:gem_pog>, <item:ispawner:cage_piece>],
-    [<item:the_vault:chromatic_steel_block>, <item:ispawner:cage_piece>, <item:the_vault:chromatic_steel_block>]
+    [<item:the_vault:black_chromatic_steel_ingot>, <item:ispawner:cage_piece>, <item:the_vault:black_chromatic_steel_ingot>],
+    [<item:ispawner:cage_piece>, <item:the_vault:echo_pog>, <item:ispawner:cage_piece>],
+    [<item:the_vault:black_chromatic_steel_ingot>, <item:ispawner:cage_piece>, <item:the_vault:black_chromatic_steel_ingot>]
 ]);
 
 craftingTable.addShaped("cagerium_cage", <item:cagerium:cage>, [

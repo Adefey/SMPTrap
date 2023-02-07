@@ -1,0 +1,198 @@
+{
+  "loot": {
+    "minecraft:cobblestone": [
+      {
+        "roll": {
+          "type": "constant",
+          "count": 1
+        },
+        "pool": [
+          {
+            "weight": 1,
+            "item": {
+              "id": "minecraft:gravel"
+            }
+          }
+        ]
+      }
+    ],
+    "minecraft:gravel": [
+      {
+        "roll": {
+          "type": "constant",
+          "count": 1
+        },
+        "pool": [
+          {
+            "weight": 1,
+            "item": {
+              "id": "minecraft:sand"
+            }
+          }
+        ]
+      }
+    ],
+    "minecraft:bricks": [
+      {
+        "roll": {
+          "type": "constant",
+          "count": 1
+        },
+        "pool": [
+          {
+            "weight": 1,
+            "item": {
+              "id": "minecraft:brick"
+            },
+            "count": {
+              "type": "constant",
+              "count": 3
+            }
+          }
+        ]
+      }
+    ],
+    "minecraft:nether_bricks": [
+      {
+        "roll": {
+          "type": "constant",
+          "count": 1
+        },
+        "pool": [
+          {
+            "weight": 1,
+            "item": {
+              "id": "minecraft:nether_brick"
+            },
+            "count": {
+              "type": "constant",
+              "count": 3
+            }
+          }
+        ]
+      }
+    ],
+    "minecraft:nether_wart_block": [
+      {
+        "roll": {
+          "type": "constant",
+          "count": 1
+        },
+        "pool": [
+          {
+            "weight": 1,
+            "item": {
+              "id": "minecraft:nether_wart"
+            },
+            "count": {
+              "type": "constant",
+              "count": 3
+            }
+          }
+        ]
+      }
+    ],
+    "the_vault:vault_stone": [
+      {
+        "roll": {
+          "type": "constant",
+          "count": 1
+        },
+        "pool": [
+          {
+            "weight": 2,
+            "item": {
+              "id": "the_vault:chipped_vault_rock"
+            }
+          },
+          {
+            "weight": 3,
+            "item": {
+              "id": "minecraft:air"
+            }
+          }
+        ]
+      }
+    ],
+    "minecraft:sandstone": [
+      {
+        "roll": {
+          "type": "constant",
+          "count": 1
+        },
+        "pool": [
+          {
+            "weight": 1,
+            "item": {
+              "id": "minecraft:sand"
+            },
+            "count": {
+              "type": "constant",
+              "count": 2
+            }
+          }
+        ]
+      }
+    ],
+    "minecraft:red_sandstone": [
+      {
+        "roll": {
+          "type": "constant",
+          "count": 1
+        },
+        "pool": [
+          {
+            "weight": 1,
+            "item": {
+              "id": "minecraft:red_sand"
+            },
+            "count": {
+              "type": "constant",
+              "count": 2
+            }
+          }
+        ]
+      }
+    ],
+    "minecraft:prismarine": [
+      {
+        "roll": {
+          "type": "constant",
+          "count": 1
+        },
+        "pool": [
+          {
+            "weight": 1,
+            "item": {
+              "id": "minecraft:prismarine_shard",
+              "count": {
+                "type": "constant",
+                "count": 2
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "minecraft:prismarine_bricks": [
+      {
+        "roll": {
+          "type": "constant",
+          "count": 1
+        },
+        "pool": [
+          {
+            "weight": 1,
+            "item": {
+              "id": "minecraft:prismarine_shard",
+              "count": {
+                "type": "constant",
+                "count": 4
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

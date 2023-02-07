@@ -7,8 +7,8 @@
           "value": {
             "value": "the_vault:vault_diamond",
             "amount": {
-              "min": 2,
-              "max": 6
+              "min": 1,
+              "max": 4
             },
             "floorToNearestTen": false,
             "validDimensions": [],
@@ -21,8 +21,8 @@
           "value": {
             "value": "the_vault:vault_meat",
             "amount": {
-              "min": 12,
-              "max": 36
+              "min": 4,
+              "max": 12
             },
             "floorToNearestTen": false,
             "validDimensions": [],
@@ -35,7 +35,7 @@
           "value": {
             "value": "minecraft:shulker_shell",
             "amount": {
-              "min": 3,
+              "min": 2,
               "max": 8
             },
             "floorToNearestTen": false,
@@ -49,8 +49,8 @@
           "value": {
             "value": "the_vault:vault_essence",
             "amount": {
-              "min": 10,
-              "max": 24
+              "min": 6,
+              "max": 12
             },
             "floorToNearestTen": false,
             "validDimensions": [],
@@ -77,8 +77,8 @@
           "value": {
             "value": "the_vault:skill_essence",
             "amount": {
-              "min": 4,
-              "max": 18
+              "min": 2,
+              "max": 8
             },
             "floorToNearestTen": false,
             "validDimensions": [],
@@ -189,14 +189,42 @@
           "value": {
             "value": "the_vault:vault_apple",
             "amount": {
-              "min": 9,
-              "max": 27
+              "min": 8,
+              "max": 24
             },
             "floorToNearestTen": false,
             "validDimensions": [],
             "vaultOnly": true
           },
           "weight": 6
+        },
+        {
+          "rewardPool": "common",
+          "value": {
+            "value": "the_vault:vault_plating",
+            "amount": {
+              "min": 4,
+              "max": 16
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true
+          },
+          "weight": 8
+        },
+        {
+          "rewardPool": "common",
+          "value": {
+            "value": "the_vault:vault_plating",
+            "amount": {
+              "min": 4,
+              "max": 16
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true
+          },
+          "weight": 8
         }
       ]
     },
@@ -263,8 +291,8 @@
           "value": {
             "value": "the_vault:knowledge_star_essence",
             "amount": {
-              "min": 80,
-              "max": 121
+              "min": 32,
+              "max": 64
             },
             "floorToNearestTen": false,
             "validDimensions": [],
@@ -277,8 +305,8 @@
           "value": {
             "value": "the_vault:skill_essence",
             "amount": {
-              "min": 80,
-              "max": 121
+              "min": 24,
+              "max": 64
             },
             "floorToNearestTen": false,
             "validDimensions": [],

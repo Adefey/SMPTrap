@@ -151,6 +151,11 @@
       "1.0": "config/the_vault/gen/1.0/loot_tables/ornate_chest_50_v2.json"
     },
     {
+      "id": "the_vault:ornate_chest_lvl65_v2",
+      "name": "Ornate Chest Lvl50",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/ornate_chest_65_v2.json"
+    },
+    {
       "id": "the_vault:altar_chest_lvl0_v2",
       "name": "Altar Chest Lvl0",
       "1.0": "config/the_vault/gen/1.0/loot_tables/altar_chest_0_v2.json"

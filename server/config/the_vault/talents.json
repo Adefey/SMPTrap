@@ -992,5 +992,71 @@
         "levelRequirement": 30
       }
     ]
+  },
+  "METHODICAL": {
+    "name": "Methodical",
+    "levels": [
+      {
+        "additionalHealingEfficiency": 0.2,
+        "manaThreshold": 0.2,
+        "cost": 4,
+        "regretCost": 2,
+        "levelRequirement": 50
+      },
+      {
+        "additionalHealingEfficiency": 0.3,
+        "manaThreshold": 0.2,
+        "cost": 4,
+        "regretCost": 2,
+        "levelRequirement": 50
+      },
+      {
+        "additionalHealingEfficiency": 0.4,
+        "manaThreshold": 0.2,
+        "cost": 4,
+        "regretCost": 2,
+        "levelRequirement": 50
+      },
+      {
+        "additionalHealingEfficiency": 0.5,
+        "manaThreshold": 0.2,
+        "cost": 6,
+        "regretCost": 2,
+        "levelRequirement": 50
+      }
+    ]
+  },
+  "DEPLETED": {
+    "name": "Depleted",
+    "levels": [
+      {
+        "damageIncrease": 0.4,
+        "manaThreshold": 0.2,
+        "cost": 4,
+        "regretCost": 2,
+        "levelRequirement": 30
+      },
+      {
+        "damageIncrease": 0.6,
+        "manaThreshold": 0.2,
+        "cost": 4,
+        "regretCost": 2,
+        "levelRequirement": 30
+      },
+      {
+        "damageIncrease": 0.8,
+        "manaThreshold": 0.2,
+        "cost": 4,
+        "regretCost": 2,
+        "levelRequirement": 30
+      },
+      {
+        "damageIncrease": 1.0,
+        "manaThreshold": 0.2,
+        "cost": 6,
+        "regretCost": 2,
+        "levelRequirement": 30
+      }
+    ]
   }
 }

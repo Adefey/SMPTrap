@@ -85,7 +85,8 @@
         "the_vault:ornate_chest_lvl13_v2": {"level": 13},
         "the_vault:ornate_chest_lvl27_v2": {"level": 27},
         "the_vault:ornate_chest_lvl39_v2": {"level": 39},
-        "the_vault:ornate_chest_lvl50_v2": {"level": 50}
+        "the_vault:ornate_chest_lvl50_v2": {"level": 50},
+        "the_vault:ornate_chest_lvl65_v2": {"level": 65}
       }
     },
     "the_vault:altar_chest": {

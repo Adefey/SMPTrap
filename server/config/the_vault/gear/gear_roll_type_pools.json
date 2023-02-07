@@ -104,15 +104,11 @@
           {
             "value": "Rare+",
             "weight": 5
-          },
-          {
-            "value": "Epic+",
-            "weight": 1
           }
         ]
       },
       {
-        "level": 20,
+        "level": 30,
         "rollTypeOutcomes": [
           {
             "value": "Scrappy+",
@@ -125,31 +121,6 @@
           {
             "value": "Rare+",
             "weight": 8
-          },
-          {
-            "value": "Epic+",
-            "weight": 2
-          }
-        ]
-      },
-      {
-        "level": 39,
-        "rollTypeOutcomes": [
-          {
-            "value": "Scrappy+",
-            "weight": 50
-          },
-          {
-            "value": "Common+",
-            "weight": 40
-          },
-          {
-            "value": "Rare+",
-            "weight": 8
-          },
-          {
-            "value": "Epic+",
-            "weight": 2
           }
         ]
       },
@@ -167,10 +138,109 @@
           {
             "value": "Rare+",
             "weight": 10
+          }
+        ]
+      }
+    ],
+    "jewel_crafted": [
+      {
+        "level": 0,
+        "rollTypeOutcomes": [
+          {
+            "value": "Common",
+            "weight": 35
           },
           {
-            "value": "Epic+",
+            "value": "Rare",
             "weight": 4
+          },
+          {
+            "value": "Epic",
+            "weight": 2
+          },
+          {
+            "value": "Omega",
+            "weight": 1
+          }
+        ]
+      }
+    ],
+    "jewel_normal": [
+      {
+        "level": 0,
+        "rollTypeOutcomes": [
+          {
+            "value": "Common",
+            "weight": 25
+          },
+          {
+            "value": "Rare",
+            "weight": 2
+          }
+        ]
+      }
+    ],
+    "jewel_high": [
+      {
+        "level": 0,
+        "rollTypeOutcomes": [
+          {
+            "value": "Common",
+            "weight": 25
+          },
+          {
+            "value": "Rare",
+            "weight": 5
+          },
+          {
+            "value": "Epic",
+            "weight": 2
+          },
+          {
+            "value": "Omega",
+            "weight": 1
+          }
+        ]
+      }
+    ],
+    "jewel_blackmarket": [
+      {
+        "level": 0,
+        "rollTypeOutcomes": [
+          {
+            "value": "Common",
+            "weight": 25
+          },
+          {
+            "value": "Rare",
+            "weight": 5
+          },
+          {
+            "value": "Epic",
+            "weight": 2
+          },
+          {
+            "value": "Omega",
+            "weight": 1
+          }
+        ]
+      }
+    ],
+    "jewel_treasure": [
+      {
+        "level": 0,
+        "rollTypeOutcomes": [
+          {
+            "value": "Rare",
+            "weight": 5
+          },
+          {
+            "value": "Epic",
+            "weight": 2
+          },
+          {
+            "value": "Omega",
+            "weight": 1
           }
         ]
       }
@@ -217,6 +287,29 @@
           {
             "value": "Epic+",
             "weight": 10
+          }
+        ]
+      }
+    ],
+    "gear_treasure": [
+      {
+        "level": 0,
+        "rollTypeOutcomes": [
+          {
+            "value": "Common+",
+            "weight": 40
+          },
+          {
+            "value": "Rare+",
+            "weight": 30
+          },
+          {
+            "value": "Epic+",
+            "weight": 10
+          },
+          {
+            "value": "Omega",
+            "weight": 2
           }
         ]
       }

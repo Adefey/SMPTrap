@@ -56,7 +56,7 @@ for gemId, gemName in gems {
 
 <recipetype:thermal:pulverizer>.addRecipe("ore_to_dust", [<item:the_vault:chromatic_iron_dust> *4], <item:the_vault:chromatic_iron_ore>, 3, 4000);
 <recipetype:thermal:pulverizer>.addRecipe("raw_to_dust", [<item:the_vault:chromatic_iron_dust> *2], <item:the_vault:raw_chromatic_iron>, 3, 4000);
-<recipetype:thermal:pulverizer>.addRecipe("ingot_to_dust", [<item:the_vault:chromatic_iron_dust>], <item:the_vault:chromatic_iron_ingot>, 3, 2000);
+<recipetype:thermal:pulverizer>.addRecipe("ingot_to_dust", [<item:the_vault:chromatic_iron_dust> *1], <item:the_vault:chromatic_iron_ingot>, 3, 2000);
 
 <recipetype:thermal:pulverizer>.addRecipe("vaultstone_to_rock", [<item:the_vault:vault_cobblestone> % 100, <item:the_vault:chipped_vault_rock> % 50], <item:the_vault:vault_stone>, 3, 2000);
 
@@ -169,9 +169,9 @@ craftingTable.addShaped("thermal_vacuumulator", <item:thermal:device_collector>,
 ]);
 
 craftingTable.addShaped("thermal_igneous_extruder", <item:thermal:device_rock_gen>, [
-    [<item:the_vault:chromatic_steel_ingot>, <item:thermal:constantan_gear>, <item:the_vault:chromatic_steel_ingot>],
+    [<item:the_vault:black_chromatic_steel_ingot>, <item:thermal:constantan_gear>, <item:the_vault:black_chromatic_steel_ingot>],
     [<item:minecraft:tinted_glass>, <item:thermal:machine_frame>, <item:minecraft:tinted_glass>],
-    [<item:the_vault:chromatic_steel_ingot>, <item:thermal:redstone_servo>, <item:the_vault:chromatic_steel_ingot>]
+    [<item:the_vault:black_chromatic_steel_ingot>, <item:thermal:redstone_servo>, <item:the_vault:black_chromatic_steel_ingot>]
 ]);
 
 craftingTable.addShaped("thermal_aqueous_accumulator", <item:thermal:device_water_gen>, [

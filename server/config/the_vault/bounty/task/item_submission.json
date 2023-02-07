@@ -19,6 +19,20 @@
         {
           "rewardPool": "common",
           "value": {
+            "value": "minecraft:ancient_debris",
+            "amount": {
+              "min": 2,
+              "max": 8
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": false
+          },
+          "weight": 3
+        },
+        {
+          "rewardPool": "common",
+          "value": {
             "value": "minecraft:netherite_ingot",
             "amount": {
               "min": 2,
@@ -201,6 +215,20 @@
             "vaultOnly": false
           },
           "weight": 3
+        },
+        {
+          "rewardPool": "common",
+          "value": {
+            "value": "minecraft:ancient_debris",
+            "amount": {
+              "min": 8,
+              "max": 24
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": false
+          },
+          "weight": 2
         }
       ]
     }

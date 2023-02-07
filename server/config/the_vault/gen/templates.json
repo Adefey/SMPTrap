@@ -5757,6 +5757,966 @@
         "type": "structure",
         "path": "config/the_vault/gen/1.0/structures/vault/rooms/omega/cozy1.nbt"
       }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard1/structure1/wooden1",
+      "name": "Highlighter Mustard1 Structure1 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard1/structure1/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard1/structure1/wooden2",
+      "name": "Highlighter Mustard1 Structure1 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard1/structure1/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard1/structure1/wooden3",
+      "name": "Highlighter Mustard1 Structure1 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard1/structure1/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard1/structure1/wooden4",
+      "name": "Highlighter Mustard1 Structure1 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard1/structure1/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard1/structure1/wooden5",
+      "name": "Highlighter Mustard1 Structure1 Wooden 5",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard1/structure1/wooden5.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard1/structure1/wooden6",
+      "name": "Highlighter Mustard1 Structure1 Wooden 6",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard1/structure1/wooden6.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard1/structure1/ornate1",
+      "name": "Highlighter Mustard1 Structure1 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard1/structure1/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard1/structure1/living1",
+      "name": "Highlighter Mustard1 Structure1 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard1/structure1/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard1/structure1/gilded1",
+      "name": "Highlighter Mustard1 Structure1 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard1/structure1/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard1/structure1/coin1",
+      "name": "Highlighter Mustard1 Structure1 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard1/structure1/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard1/structure2/wooden1",
+      "name": "Highlighter Mustard1 Structure2 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard1/structure2/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard1/structure2/wooden2",
+      "name": "Highlighter Mustard1 Structure2 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard1/structure2/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard1/structure2/wooden3",
+      "name": "Highlighter Mustard1 Structure2 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard1/structure2/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard1/structure2/wooden4",
+      "name": "Highlighter Mustard1 Structure2 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard1/structure2/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard1/structure2/wooden5",
+      "name": "Highlighter Mustard1 Structure2 Wooden 5",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard1/structure2/wooden5.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard1/structure2/wooden6",
+      "name": "Highlighter Mustard1 Structure2 Wooden 6",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard1/structure2/wooden6.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard1/structure2/ornate1",
+      "name": "Highlighter Mustard1 Structure2 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard1/structure2/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard1/structure2/living1",
+      "name": "Highlighter Mustard1 Structure2 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard1/structure2/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard1/structure2/gilded1",
+      "name": "Highlighter Mustard1 Structure2 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard1/structure2/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard1/structure2/coin1",
+      "name": "Highlighter Mustard1 Structure2 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard1/structure2/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard1/structure3/wooden1",
+      "name": "Highlighter Mustard1 Structure3 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard1/structure3/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard1/structure3/wooden2",
+      "name": "Highlighter Mustard1 Structure3 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard1/structure3/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard1/structure3/wooden3",
+      "name": "Highlighter Mustard1 Structure3 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard1/structure3/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard1/structure3/wooden4",
+      "name": "Highlighter Mustard1 Structure3 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard1/structure3/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard1/structure3/wooden5",
+      "name": "Highlighter Mustard1 Structure3 Wooden 5",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard1/structure3/wooden5.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard1/structure3/wooden6",
+      "name": "Highlighter Mustard1 Structure3 Wooden 6",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard1/structure3/wooden6.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard1/structure3/ornate1",
+      "name": "Highlighter Mustard1 Structure3 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard1/structure3/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard1/structure3/living1",
+      "name": "Highlighter Mustard1 Structure3 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard1/structure3/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard1/structure3/gilded1",
+      "name": "Highlighter Mustard1 Structure3 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard1/structure3/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard1/structure3/coin1",
+      "name": "Highlighter Mustard1 Structure3 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard1/structure3/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard_s/structure1/wooden1",
+      "name": "Highlighter Mustard Shared Structure1 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard_s/structure1/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard_s/structure1/wooden2",
+      "name": "Highlighter Mustard Shared Structure1 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard_s/structure1/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard_s/structure1/wooden3",
+      "name": "Highlighter Mustard Shared Structure1 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard_s/structure1/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard_s/structure1/wooden4",
+      "name": "Highlighter Mustard Shared Structure1 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard_s/structure1/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard_s/structure1/wooden5",
+      "name": "Highlighter Mustard Shared Structure1 Wooden 5",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard_s/structure1/wooden5.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard_s/structure1/wooden6",
+      "name": "Highlighter Mustard Shared Structure1 Wooden 6",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard_s/structure1/wooden6.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard_s/structure1/ornate1",
+      "name": "Highlighter Mustard Shared Structure1 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard_s/structure1/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard_s/structure1/living1",
+      "name": "Highlighter Mustard Shared Structure1 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard_s/structure1/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard_s/structure1/gilded1",
+      "name": "Highlighter Mustard Shared Structure1 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard_s/structure1/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard_s/structure1/coin1",
+      "name": "Highlighter Mustard Shared Structure1 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard_s/structure1/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard2/structure1/wooden1",
+      "name": "Highlighter Mustard2 Structure1 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard2/structure1/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard2/structure1/wooden2",
+      "name": "Highlighter Mustard2 Structure1 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard2/structure1/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard2/structure1/wooden3",
+      "name": "Highlighter Mustard2 Structure1 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard2/structure1/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard2/structure1/wooden4",
+      "name": "Highlighter Mustard2 Structure1 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard2/structure1/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard2/structure1/wooden5",
+      "name": "Highlighter Mustard2 Structure1 Wooden 5",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard2/structure1/wooden5.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard2/structure1/wooden6",
+      "name": "Highlighter Mustard2 Structure1 Wooden 6",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard2/structure1/wooden6.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard2/structure1/ornate1",
+      "name": "Highlighter Mustard2 Structure1 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard2/structure1/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard2/structure1/living1",
+      "name": "Highlighter Mustard2 Structure1 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard2/structure1/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard2/structure1/gilded1",
+      "name": "Highlighter Mustard2 Structure1 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard2/structure1/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard2/structure1/coin1",
+      "name": "Highlighter Mustard2 Structure1 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard2/structure1/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard2/structure2/wooden1",
+      "name": "Highlighter Mustard2 Structure2 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard2/structure2/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard2/structure2/wooden2",
+      "name": "Highlighter Mustard2 Structure2 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard2/structure2/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard2/structure2/wooden3",
+      "name": "Highlighter Mustard2 Structure2 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard2/structure2/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard2/structure2/wooden4",
+      "name": "Highlighter Mustard2 Structure2 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard2/structure2/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard2/structure2/wooden5",
+      "name": "Highlighter Mustard2 Structure2 Wooden 5",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard2/structure2/wooden5.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard2/structure2/wooden6",
+      "name": "Highlighter Mustard2 Structure2 Wooden 6",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard2/structure2/wooden6.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard2/structure2/ornate1",
+      "name": "Highlighter Mustard2 Structure2 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard2/structure2/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard2/structure2/living1",
+      "name": "Highlighter Mustard2 Structure2 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard2/structure2/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard2/structure2/gilded1",
+      "name": "Highlighter Mustard2 Structure2 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard2/structure2/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard2/structure2/coin1",
+      "name": "Highlighter Mustard2 Structure2 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard2/structure2/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard3/structure1/wooden1",
+      "name": "Highlighter Mustard3 Structure1 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard3/structure1/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard3/structure1/wooden2",
+      "name": "Highlighter Mustard3 Structure1 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard3/structure1/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard3/structure1/wooden3",
+      "name": "Highlighter Mustard3 Structure1 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard3/structure1/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard3/structure1/wooden4",
+      "name": "Highlighter Mustard3 Structure1 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard3/structure1/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard3/structure1/wooden5",
+      "name": "Highlighter Mustard3 Structure1 Wooden 5",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard3/structure1/wooden5.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard3/structure1/wooden6",
+      "name": "Highlighter Mustard3 Structure1 Wooden 6",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard3/structure1/wooden6.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard3/structure1/ornate1",
+      "name": "Highlighter Mustard3 Structure1 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard3/structure1/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard3/structure1/living1",
+      "name": "Highlighter Mustard3 Structure1 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard3/structure1/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard3/structure1/gilded1",
+      "name": "Highlighter Mustard3 Structure1 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard3/structure1/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard3/structure1/coin1",
+      "name": "Highlighter Mustard3 Structure1 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard3/structure1/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard3/structure2/wooden1",
+      "name": "Highlighter Mustard3 Structure2 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard3/structure2/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard3/structure2/wooden2",
+      "name": "Highlighter Mustard3 Structure2 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard3/structure2/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard3/structure2/wooden3",
+      "name": "Highlighter Mustard3 Structure2 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard3/structure2/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard3/structure2/wooden4",
+      "name": "Highlighter Mustard3 Structure2 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard3/structure2/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard3/structure2/wooden5",
+      "name": "Highlighter Mustard3 Structure2 Wooden 5",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard3/structure2/wooden5.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard3/structure2/wooden6",
+      "name": "Highlighter Mustard3 Structure2 Wooden 6",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard3/structure2/wooden6.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard3/structure2/ornate1",
+      "name": "Highlighter Mustard3 Structure2 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard3/structure2/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard3/structure2/living1",
+      "name": "Highlighter Mustard3 Structure2 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard3/structure2/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard3/structure2/gilded1",
+      "name": "Highlighter Mustard3 Structure2 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard3/structure2/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard3/structure2/coin1",
+      "name": "Highlighter Mustard3 Structure2 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard3/structure2/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard3/structure3/wooden1",
+      "name": "Highlighter Mustard3 Structure3 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard3/structure3/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard3/structure3/wooden2",
+      "name": "Highlighter Mustard3 Structure3 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard3/structure3/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard3/structure3/wooden3",
+      "name": "Highlighter Mustard3 Structure3 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard3/structure3/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard3/structure3/wooden4",
+      "name": "Highlighter Mustard3 Structure3 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard3/structure3/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard3/structure3/wooden5",
+      "name": "Highlighter Mustard3 Structure3 Wooden 5",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard3/structure3/wooden5.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard3/structure3/wooden6",
+      "name": "Highlighter Mustard3 Structure3 Wooden 6",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard3/structure3/wooden6.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard3/structure3/ornate1",
+      "name": "Highlighter Mustard3 Structure3 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard3/structure3/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard3/structure3/living1",
+      "name": "Highlighter Mustard3 Structure3 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard3/structure3/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard3/structure3/gilded1",
+      "name": "Highlighter Mustard3 Structure3 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard3/structure3/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard3/structure3/coin1",
+      "name": "Highlighter Mustard3 Structure3 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard3/structure3/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard4/structure1/wooden1",
+      "name": "Highlighter Mustard4 Structure1 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard4/structure1/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard4/structure1/wooden2",
+      "name": "Highlighter Mustard4 Structure1 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard4/structure1/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard4/structure1/wooden3",
+      "name": "Highlighter Mustard4 Structure1 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard4/structure1/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard4/structure1/wooden4",
+      "name": "Highlighter Mustard4 Structure1 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard4/structure1/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard4/structure1/wooden5",
+      "name": "Highlighter Mustard4 Structure1 Wooden 5",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard4/structure1/wooden5.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard4/structure1/wooden6",
+      "name": "Highlighter Mustard4 Structure1 Wooden 6",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard4/structure1/wooden6.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard4/structure1/ornate1",
+      "name": "Highlighter Mustard4 Structure1 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard4/structure1/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard4/structure1/living1",
+      "name": "Highlighter Mustard4 Structure1 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard4/structure1/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard4/structure1/gilded1",
+      "name": "Highlighter Mustard4 Structure1 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard4/structure1/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard4/structure1/coin1",
+      "name": "Highlighter Mustard4 Structure1 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard4/structure1/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard4/structure2/wooden1",
+      "name": "Highlighter Mustard4 Structure2 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard4/structure2/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard4/structure2/wooden2",
+      "name": "Highlighter Mustard4 Structure2 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard4/structure2/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard4/structure2/wooden3",
+      "name": "Highlighter Mustard4 Structure2 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard4/structure2/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard4/structure2/wooden4",
+      "name": "Highlighter Mustard4 Structure2 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard4/structure2/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard4/structure2/wooden5",
+      "name": "Highlighter Mustard4 Structure2 Wooden 5",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard4/structure2/wooden5.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard4/structure2/wooden6",
+      "name": "Highlighter Mustard4 Structure2 Wooden 6",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard4/structure2/wooden6.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard4/structure2/ornate1",
+      "name": "Highlighter Mustard4 Structure2 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard4/structure2/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard4/structure2/living1",
+      "name": "Highlighter Mustard4 Structure2 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard4/structure2/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard4/structure2/gilded1",
+      "name": "Highlighter Mustard4 Structure2 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard4/structure2/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard4/structure2/coin1",
+      "name": "Highlighter Mustard4 Structure2 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard4/structure2/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard4/structure3/wooden1",
+      "name": "Highlighter Mustard4 Structure3 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard4/structure3/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard4/structure3/wooden2",
+      "name": "Highlighter Mustard4 Structure3 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard4/structure3/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard4/structure3/wooden3",
+      "name": "Highlighter Mustard4 Structure3 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard4/structure3/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard4/structure3/wooden4",
+      "name": "Highlighter Mustard4 Structure3 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard4/structure3/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard4/structure3/wooden5",
+      "name": "Highlighter Mustard4 Structure3 Wooden 5",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard4/structure3/wooden5.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard4/structure3/wooden6",
+      "name": "Highlighter Mustard4 Structure3 Wooden 6",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard4/structure3/wooden6.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard4/structure3/ornate1",
+      "name": "Highlighter Mustard4 Structure3 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard4/structure3/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard4/structure3/living1",
+      "name": "Highlighter Mustard4 Structure3 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard4/structure3/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard4/structure3/gilded1",
+      "name": "Highlighter Mustard4 Structure3 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard4/structure3/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard4/structure3/coin1",
+      "name": "Highlighter Mustard4 Structure3 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard4/structure3/coin1.nbt"
+      }
     }
   ]
 }

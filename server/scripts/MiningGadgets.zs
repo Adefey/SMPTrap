@@ -70,13 +70,13 @@ craftingTable.addShaped("mininggadgets_void_upgrade", <item:mininggadgets:upgrad
 ]);
 
 craftingTable.addShaped("mininggadgets_magnet_upgrade", <item:mininggadgets:upgrade_magnet>, [
-    [<item:the_vault:magnet>, <item:the_vault:perfect_echo_gem>, <item:the_vault:magnet>],
+    [<item:the_vault:vault_diamond>, <item:the_vault:perfect_echo_gem>, <item:the_vault:vault_diamond>],
     [<item:the_vault:chromatic_steel_ingot>, <item:mininggadgets:upgrade_empty>, <item:the_vault:chromatic_steel_ingot>],
     [<item:minecraft:redstone_block>, <item:minecraft:gold_block>, <item:minecraft:redstone_block>]
 ]);
 
 craftingTable.addShaped("mininggadgets_3x3_upgrade", <item:mininggadgets:upgrade_three_by_three>, [
-    [<item:the_vault:chromatic_steel_ingot>, <item:the_vault:vault_pickaxe>, <item:the_vault:chromatic_steel_ingot>],
+    [<item:the_vault:chromatic_steel_ingot>, <item:the_vault:gem_pog>, <item:the_vault:chromatic_steel_ingot>],
     [<item:the_vault:gem_echo>, <item:mininggadgets:upgrade_empty>, <item:the_vault:gem_echo>],
     [<item:minecraft:redstone_block>, <item:the_vault:vault_diamond_block>, <item:minecraft:redstone_block>]
 ]);

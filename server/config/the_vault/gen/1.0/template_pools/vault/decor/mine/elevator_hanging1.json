@@ -13,14 +13,14 @@
         "weight": 1,
         "value": {
           "template": "the_vault:vault/decor/mine/elevator_hanging1",
-          "palettes": []
+          "palettes": [ "the_vault:mine/ore_placeholder_micro" ]
         }
       },
       {
         "weight": 1,
         "value": {
           "template": "the_vault:vault/decor/mine/elevator_hanging2",
-          "palettes": []
+          "palettes": [ "the_vault:mine/ore_placeholder_micro" ]
         }
       }
     ]

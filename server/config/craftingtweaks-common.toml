@@ -18,5 +18,5 @@
 	#Allowed Values: DEFAULT, BUTTONS, HOTKEYS, DISABLED
 	craftingTweaksMode = "DEFAULT"
 	#Add mod ids here of mods that you wish to disable Crafting Tweaks support for.
-	disabledAddons = []
+	disabledAddons = ["refinedstorage"]
 

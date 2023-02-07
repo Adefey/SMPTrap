@@ -185,6 +185,14 @@
       "value": "Opens a treasure room with a Puffium door inside the vaults"
     },
     {
+      "item": "the_vault:key_xenium",
+      "value": "Opens a treasure room with a Xeenium door inside the vaults"
+    },
+    {
+      "item": "the_vault:key_petzanite",
+      "value": "Opens a treasure room with a Petezanite door inside the vaults"
+    },
+    {
       "item": "the_vault:relic_booster_pack",
       "value": "Consume to either gain a relic, a mystery box\nor a tiny bit of experience"
     },
@@ -430,6 +438,14 @@
     },
     {
       "item": "the_vault:cluster_puffium",
+      "value": "High end crafting ingredient"
+    },
+    {
+      "item": "the_vault:cluster_xenium",
+      "value": "High end crafting ingredient"
+    },
+    {
+      "item": "the_vault:cluster_petzanite",
       "value": "High end crafting ingredient"
     },
     {
@@ -835,6 +851,14 @@
     {
       "item": "the_vault:vault_diamond_block",
       "value": "Crafting ingredient"
+    },
+    {
+      "item": "the_vault:lost_bounty",
+      "value": "Use on the Bounty Table to acquire a Legendary Bounty"
+    },
+    {
+      "item": "the_vault:bounty_pearl",
+      "value": "Use in the Bounty Table to reroll available bounties"
     }
   ]
 }

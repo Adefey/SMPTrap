@@ -86,8 +86,8 @@
         {
           "type": "patchouli:spotlight",
           "item": "the_vault:echoing_pickaxe",
-          "title": "Vault Pickaxes",
-          "text": "$(l)Vault Pickaxes$() are made from Vault related items, like a Vault Ingot. They can be upgraded in the $(l)Tool Vise$() and can be $(l)enchanted$() with the Vanilla Enchantments Efficiency, Unbreaking, Fortune and Silk Touch."
+          "title": "LEGACY Vault Pickaxes",
+          "text": "$(l)NOTE After update 7: This is about the Legacy Vault Pickaxe$(). Any Legacy Vault Pickaxes can still be used until broken. They cannot be enhanced anymore."
         }
 
     ]

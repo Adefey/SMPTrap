@@ -3,13 +3,20 @@
     "Defensive": {
       "groups": [
         "ModArmor",
-        "ModResistance",
         "ModKnockbackResistance",
         "ModCritHitMitigation"
       ],
       "display": "Defensive",
-      "color": 16760832,
+      "color": 7973817,
       "weight": 20
+    },
+    "ResDmg": {
+      "groups": [
+        "ModResistance"
+      ],
+      "display": "Resistance/Damage",
+      "color": 16760832,
+      "weight": 5
     },
     "Armor": {
       "groups": [
@@ -28,13 +35,21 @@
       "color": 65535,
       "weight": 10
     },
+    "ManaRegen": {
+      "groups": [
+        "ModManaRegen"
+      ],
+      "display": "Mana Regeneration",
+      "color": 65535,
+      "weight": 2
+    },
     "Thorns": {
       "groups": [
         "ModThornsChance",
         "ModThornsDamage"
       ],
       "display": "Thorns",
-      "color": 7195648,
+      "color": 16747256,
       "weight": 10
     },
     "Looting": {
@@ -51,7 +66,7 @@
         "ModTrapDisarming"
       ],
       "display": "Trap Disarming",
-      "color": 7071001,
+      "color": 8471551,
       "weight": 10
     },
     "Cooldown": {
@@ -72,6 +87,7 @@
     },
     "Offensive": {
       "groups": [
+        "ModOnHitAddition",
         "ModAttackDamage",
         "ModFatalStrikeDamage",
         "ModDamageIncrease",
@@ -82,6 +98,14 @@
       "display": "Offensive",
       "color": 12782347,
       "weight": 20
+    },
+    "OnHit": {
+      "groups": [
+        "ModOnHitAddition"
+      ],
+      "display": "On Hit Type",
+      "color": 16740864,
+      "weight": 5
     },
     "Fatal Strike": {
       "groups": [
@@ -94,12 +118,19 @@
     },
     "Damage": {
       "groups": [
-        "ModAttackDamage",
         "ModDamageIncrease"
       ],
-      "display": "Damage",
+      "display": "Damage Percentile",
       "color": 16523264,
       "weight": 10
+    },
+    "Soul Hunting": {
+      "groups": [
+        "ModSoulChance"
+      ],
+      "display": "Soul Hunting",
+      "color": 4653308,
+      "weight": 5
     },
     "On Hit Effect": {
       "groups": [

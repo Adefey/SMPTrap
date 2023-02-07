@@ -1637,6 +1637,66 @@
       "id": "the_vault:vault/rooms/raw/modded_caves",
       "name": "Raw Modded Caves",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/raw/modded_caves.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard1/structure1",
+      "name": "Highlighter Mustard1 Structure 1",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/mustard1/structure1.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard1/structure2",
+      "name": "Highlighter Mustard1 Structure 2",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/mustard1/structure2.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard1/structure3",
+      "name": "Highlighter Mustard1 Structure 3",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/mustard1/structure3.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard_s/structure1",
+      "name": "Highlighter Mustard Shared Structure 1",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/mustard_s/structure1.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard2/structure1",
+      "name": "Highlighter Mustard2 Structure 1",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/mustard2/structure1.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard2/structure2",
+      "name": "Highlighter Mustard2 Structure 2",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/mustard2/structure2.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard3/structure1",
+      "name": "Highlighter Mustard3 Structure 1",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/mustard3/structure1.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard3/structure2",
+      "name": "Highlighter Mustard3 Structure 2",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/mustard3/structure2.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard3/structure3",
+      "name": "Highlighter Mustard3 Structure 3",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/mustard3/structure3.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard4/structure1",
+      "name": "Highlighter Mustard4 Structure 1",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/mustard4/structure1.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard4/structure2",
+      "name": "Highlighter Mustard4 Structure 2",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/mustard4/structure2.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard4/structure3",
+      "name": "Highlighter Mustard4 Structure 3",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/mustard4/structure3.json"
     }
   ]
 }

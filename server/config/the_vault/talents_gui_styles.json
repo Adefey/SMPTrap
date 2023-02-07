@@ -24,12 +24,7 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/talents/critical_strike"
     },
-    "Reach": {
-      "x": 280,
-      "y": 0,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/talents/reach"
-    },
+    
     "Unbreakable": {
       "x": 350,
       "y": 0,
@@ -143,8 +138,18 @@
       "y": 210,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/talents/illager_mastery"
+    },
+    "Methodical": {
+      "x": 0,
+      "y": 210,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/talents/methodical"
+    },
+    "Depleted": {
+      "x": 70,
+      "y": 210,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/talents/depleted"
     }
-    
-    
   }
 }

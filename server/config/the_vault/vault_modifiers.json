@@ -946,7 +946,7 @@
           "name": "Velara's Favour",
           "color": "#FF5555",
           "description": "+1% Healing Effectiveness",
-          "descriptionFormatted": "+%f%% Healing Effectiveness",
+          "descriptionFormatted": "+%d%% Healing Effectiveness",
           "icon": "the_vault:gui/modifiers/velara"
         }
       },
@@ -962,7 +962,7 @@
           "name": "Wendarr's Favour",
           "color": "#FF5555",
           "description": "+0.5% Cooldown Reduction",
-          "descriptionFormatted": "+%f%% Cooldown Reduction",
+          "descriptionFormatted": "+%d%% Cooldown Reduction",
           "icon": "the_vault:gui/modifiers/wendarr"
         }
       }

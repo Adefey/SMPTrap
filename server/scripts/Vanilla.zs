@@ -303,9 +303,3 @@ craftingTable.addShaped("pebble_2_troll", <item:twigs:pebble> *64, [
     [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>],
     [<item:the_vault:black_chromatic_steel_block>, <item:the_vault:pogging_jewel>, <item:the_vault:black_chromatic_steel_block>]
 ]);
-
-craftingTable.addShaped("cryo_chamber", <item:the_vault:cryo_chamber>, [
-    [<item:the_vault:chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>],
-    [<item:the_vault:chromatic_steel_ingot>, <item:the_vault:gem_pog>, <item:the_vault:chromatic_steel_ingot>],
-    [<item:the_vault:chromatic_steel_ingot>, <item:the_vault:black_chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>]
-]);

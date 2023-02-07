@@ -1,0 +1,90 @@
+{
+  "tile_processors": [
+    {
+      "type": "reference",
+      "id": "the_vault:generic/spawners/generic_settings"
+    },
+    {
+      "type": "leveled",
+      "levels": [
+        {
+          "level": 0,
+          "type": "weighted_target",
+          "target": "ispawner:spawner",
+          "output": {
+            "ispawner:spawner{ Manager: { Settings: { Attempts: 4 } } }": 1
+          }
+        }
+      ]
+    },
+    {
+      "type": "leveled",
+      "levels": [
+        {
+          "level": 0,
+          "type": "weighted_target",
+          "target": "ispawner:spawner",
+          "output": {
+            "ispawner:spawner{ Manager: { Settings: { PlayerRadius: 12 } } }": 1
+          }
+        }
+      ]
+    },
+    {
+      "type": "leveled",
+      "levels": [
+        {
+          "level": 0,
+          "type": "weighted_target",
+          "target": "ispawner:spawner",
+          "output": {
+            "ispawner:spawner{ Manager:{ UsesLeft:3, Settings: { SpawnDelay: 40 } } } }": 1,
+            "ispawner:spawner{ Manager:{ UsesLeft:4, Settings: { SpawnDelay: 50 } } } }": 4,
+            "ispawner:spawner{ Manager:{ UsesLeft:5, Settings: { SpawnDelay: 50 } } } }": 1,
+            "ispawner:spawner": 20
+          }
+        }
+      ]
+    },
+    {
+      "type": "weighted_target",
+      "target": "the_vault:placeholder[type=wooden_chest]",
+      "output": {
+        "the_vault:placeholder[type=wooden_chest]": 11,
+        "minecraft:air": 9
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "the_vault:placeholder[type=ornate_chest]",
+      "output": {
+        "the_vault:placeholder[type=ornate_chest]": 5,
+        "minecraft:air": 15
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "the_vault:placeholder[type=living_chest]",
+      "output": {
+        "the_vault:placeholder[type=living_chest]": 5,
+        "minecraft:air": 15
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "the_vault:placeholder[type=gilded_chest]",
+      "output": {
+        "the_vault:placeholder[type=gilded_chest]": 5,
+        "minecraft:air": 15
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "the_vault:placeholder[type=coin_stacks]",
+      "output": {
+        "the_vault:placeholder[type=coin_stacks]": 7,
+        "minecraft:air": 13
+      }
+    }
+  ]
+}

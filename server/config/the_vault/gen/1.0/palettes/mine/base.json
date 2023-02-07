@@ -1,14 +1,6 @@
 {
   "tile_processors": [
     {
-      "type": "weighted_target",
-      "target": "minecraft:stone",
-      "output": {
-        "minecraft:stone": 150,
-        "the_vault:placeholder[type=ore]": 1
-      }
-    },
-    {
       "type": "reference",
       "id": "the_vault:mine/ore_placeholder"
     },

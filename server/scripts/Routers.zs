@@ -58,9 +58,10 @@ craftingTable.addShapeless("modularrouters_stack_augment", <item:modularrouters:
     <item:modularrouters:augment_core>, <item:the_vault:chromatic_steel_ingot>, <item:modularrouters:stack_upgrade>
 ]);
 
-craftingTable.addShapeless("modularrouters_augment_core", <item:modularrouters:augment_core>, [
-    <item:modularrouters:blank_module>, <item:the_vault:extraordinary_larimar>,
-    <item:modularrouters:blank_upgrade>, <item:the_vault:chromatic_steel_ingot>
+craftingTable.addShaped("modularrouters_augment_core",  <item:modularrouters:augment_core>, [
+    [<item:the_vault:gem_larimar>, <item:the_vault:chromatic_steel_ingot>, <item:the_vault:gem_larimar>],
+    [<item:the_vault:vault_essence>, <item:the_vault:magic_silk_block>, <item:the_vault:vault_essence>],
+    [<item:the_vault:gem_larimar>, <item:the_vault:chromatic_steel_ingot>,<item:the_vault:gem_larimar>]
 ]);
 
 craftingTable.addShapeless("modularrouters_void_module", <item:modularrouters:void_module>, [

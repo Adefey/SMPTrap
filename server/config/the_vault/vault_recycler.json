@@ -58,5 +58,31 @@
       "minCount": 1,
       "maxCount": 1
     }
+  },
+  "jewelRecyclingOutput": {
+    "mainOutput": {
+      "chance": 1.0,
+      "stack": {
+        "item": "the_vault:gemstone"
+      },
+      "minCount": 1,
+      "maxCount": 1
+    },
+    "extraOutput1": {
+      "chance": 1.0,
+      "stack": {
+        "item": "the_vault:silver_scrap"
+      },
+      "minCount": 1,
+      "maxCount": 10
+    },
+    "extraOutput2": {
+      "chance": 1.0,
+      "stack": {
+        "item": "the_vault:gem_wutodie"
+      },
+      "minCount": 1,
+      "maxCount": 3
+    }
   }
 }

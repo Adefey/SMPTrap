@@ -41,6 +41,11 @@
 		azalea = true
 		blossom = true
 
+	[wood_type.tconstruct]
+		greenheart = true
+		skyroot = true
+		bloodshroom = true
+
 [leaves_type]
 
 	[leaves_type.minecraft]
@@ -70,4 +75,9 @@
 		pink_blossom = true
 		yellow_blossom = true
 		red_blossom = true
+
+	[leaves_type.tconstruct]
+		earth_slime = true
+		sky_slime = true
+		ender_slime = true
 

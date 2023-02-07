@@ -531,6 +531,11 @@
       "1.0": "config/the_vault/gen/1.0/palettes/mine/ore_placeholder.json"
     },
     {
+      "id": "the_vault:mine/ore_placeholder_micro",
+      "name": "Ore Placeholder Microstructures",
+      "1.0": "config/the_vault/gen/1.0/palettes/mine/ore_placeholder_micro.json"
+    },
+    {
       "id": "the_vault:crystal_caves/crystal_spawner",
       "name": "Crystal Spawner",
       "1.0": "config/the_vault/gen/1.0/palettes/crystal_caves/crystal_spawner.json"
@@ -719,6 +724,21 @@
       "id": "the_vault:generic/air_to_cave_air",
       "name": "Air to Cave Air",
       "1.0": "config/the_vault/gen/1.0/palettes/generic/air_to_cave_air.json"
+    },
+    {
+      "id": "the_vault:generic/structure_rarities/common_highlighter",
+      "name": "Structure Rarity Common Highlighter",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/structure_rarities/common_highlighter.json"
+    },
+    {
+      "id": "the_vault:generic/structure_rarities/rare_highlighter",
+      "name": "Structure Rarity Rare Highlighter",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/structure_rarities/rare_highlighter.json"
+    },
+    {
+      "id": "the_vault:generic/structure_rarities/epic_highlighter",
+      "name": "Structure Rarity Epic Highlighter",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/structure_rarities/epic_highlighter.json"
     }
   ]
 }

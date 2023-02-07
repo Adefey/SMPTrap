@@ -6556,7 +6556,7 @@
       {
         "tickDelay": 10,
         "horizontalRange": 8,
-        "verticalRange": 8,
+        "verticalRange": 3,
         "manaCostPerSecond": 3.0,
         "learningCost": 1,
         "regretCost": 1,
@@ -6658,7 +6658,7 @@
       {
         "tickDelay": 10,
         "horizontalRange": 8,
-        "verticalRange": 8,
+        "verticalRange": 3,
         "manaCostPerSecond": 3.0,
         "learningCost": 1,
         "regretCost": 1,
@@ -6766,7 +6766,7 @@
         "adultChance": 0.3,
         "tickDelay": 10,
         "horizontalRange": 8,
-        "verticalRange": 8,
+        "verticalRange": 3,
         "manaCostPerSecond": 4.0,
         "learningCost": 1,
         "regretCost": 1,
@@ -6873,7 +6873,7 @@
       {
         "tickDelay": 10,
         "horizontalRange": 8,
-        "verticalRange": 8,
+        "verticalRange": 3,
         "manaCostPerSecond": 3.0,
         "learningCost": 1,
         "regretCost": 1,
@@ -7546,7 +7546,7 @@
         "levelRequirement": 0
       },
       {
-        "durationTicks": 40,
+        "durationTicks": 50,
         "manaCost": 4.0,
         "learningCost": 1,
         "regretCost": 1,
@@ -7554,7 +7554,7 @@
         "levelRequirement": 0
       },
       {
-        "durationTicks": 40,
+        "durationTicks": 60,
         "manaCost": 4.0,
         "learningCost": 1,
         "regretCost": 1,

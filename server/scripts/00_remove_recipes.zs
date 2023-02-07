@@ -1,12 +1,17 @@
 /* scripts made by Douwsky
 for Iskall85's Vaulthunters */
 
+import crafttweaker.api.loot.condition.builder.LootConditionBuilder;
 import mods.botania.recipe.manager.PetalApothecaryRecipeManager;
+import crafttweaker.api.loot.condition.LootTableIdLootCondition;
 import mods.botania.recipe.manager.ManaInfusionRecipeManager;
 import mods.botania.recipe.manager.ElvenTradeRecipeManager;
 import mods.botania.recipe.manager.RuneAltarRecipeManager;
+import crafttweaker.api.loot.modifier.CommonLootModifiers;
+import crafttweaker.api.loot.condition.LootConditions;
 import crafttweaker.api.recipe.SmithingRecipeManager;
 import mods.botania.recipe.manager.BrewRecipeManager;
+import crafttweaker.api.loot.table.LootTableManager;
 import crafttweaker.api.recipe.StoneCutterManager;
 import crafttweaker.api.villagers.VillagerTrades;
 import mods.create.MechanicalCrafterManager;
@@ -15,7 +20,13 @@ import crafttweaker.api.tag.MCTag;
 import mods.botania.Brew;
 import mods.jei.JEI;
 
-
+loot.modifiers.register(
+    "no_loot", 
+    LootConditions.only(LootTableIdLootCondition.create(<resource:quark:entities/stoneling_carry>)), 
+    CommonLootModifiers.removeAll(<item:minecraft:diamond>, <item:minecraft:ender_pearl>, <item:minecraft:redstone>,
+    <item:minecraft:gold_ingot>,<item:minecraft:iron_ingot>,<item:minecraft:emerald>,<item:minecraft:coal>,<item:minecraft:zombie_head>,
+    <item:minecraft:creeper_head>,<item:minecraft:lapis_lazuli>,<item:minecraft:golden_apple>,<item:minecraft:iron_horse_armor>,<item:minecraft:diamond_horse_armor>,
+    <item:minecraft:golden_horse_armor>,<item:minecraft:saddle>,<item:minecraft:name_tag>));
 
 var logs = {
   "oak_wood": "oak",
@@ -249,6 +260,7 @@ craftingTable.remove(<item:ae2:quartz_growth_accelerator>);
 craftingTable.remove(<item:ae2:wireless_booster>);
 craftingTable.remove(<item:ae2:pattern_provider>);
 craftingTable.remove(<item:ae2:blank_pattern>);
+craftingTable.remove(<item:ae2:spatial_anchor>);
 
 // Twigs
 craftingTable.remove(<item:twigs:stripped_bamboo_planks>);

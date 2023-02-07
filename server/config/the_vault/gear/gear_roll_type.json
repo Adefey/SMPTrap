@@ -10,6 +10,33 @@
       ],
       "color": 12369084
     },
+    "Common": {
+      "pool": [
+        {
+          "value": "COMMON",
+          "weight": 1
+        }
+      ],
+      "color": 12369084
+    },
+    "Rare": {
+      "pool": [
+        {
+          "value": "RARE",
+          "weight": 1
+        }
+      ],
+      "color": 12369084
+    },
+    "Epic": {
+      "pool": [
+        {
+          "value": "EPIC",
+          "weight": 1
+        }
+      ],
+      "color": 12369084
+    },
     "Omega": {
       "pool": [
         {

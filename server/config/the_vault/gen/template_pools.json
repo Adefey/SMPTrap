@@ -1385,8 +1385,33 @@
     },
     {
       "id": "the_vault:vault/decor/mush_room/vine",
-      "name": "Vine",
+      "name": "Mush-Room Vine",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/mush_room/vine.json"
+    },
+    {
+      "id": "the_vault:vault/decor/mush_room/big_floor_mushroom",
+      "name": "Mush-Room Big Floor Mushroom",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/mush_room/big_floor_mushroom.json"
+    },
+    {
+      "id": "the_vault:vault/decor/mush_room/big_wall_mushroom",
+      "name": "Mush-Room Big Wall Mushroom",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/mush_room/big_wall_mushroom.json"
+    },
+    {
+      "id": "the_vault:vault/decor/mush_room/bigger_wall_mushroom",
+      "name": "Mush-Room Bigger Wall Mushroom",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/mush_room/bigger_wall_mushroom.json"
+    },
+    {
+      "id": "the_vault:vault/decor/mush_room/floor_mushroom",
+      "name": "Mush-Room Floor Mushroom",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/mush_room/floor_mushroom.json"
+    },
+    {
+      "id": "the_vault:vault/decor/mush_room/wall_mushroom",
+      "name": "Mush-Room Wall Mushroom",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/mush_room/wall_mushroom.json"
     },
     {
       "id": "the_vault:vault/rooms/end_void_common_rooms",

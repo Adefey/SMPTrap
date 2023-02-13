@@ -38,10 +38,20 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner",
                     "output": {
-                        "ispawner:spawner": 4,
                         "ispawner:spawner{ Manager:{ UsesLeft:1, Settings: { SpawnDelay: 20, Attempts: 2 } } } }": 3,
                         "ispawner:spawner{ Manager:{ UsesLeft:1, Settings: { SpawnDelay: 20, Attempts: 3 } } } }": 3
                         
+                    }
+                },
+                {
+                    "level": 5,
+                    "type": "weighted_target",
+                    "target": "ispawner:spawner",
+                    "output": {
+                        "ispawner:spawner": 4,
+                        "ispawner:spawner{ Manager:{ UsesLeft:1, Settings: { SpawnDelay: 20, Attempts: 2 } } } }": 3,
+                        "ispawner:spawner{ Manager:{ UsesLeft:1, Settings: { SpawnDelay: 20, Attempts: 3 } } } }": 3
+
                     }
                 },
                 {

@@ -103,9 +103,9 @@ craftingTable.addShaped("storagedrawers_controller_slave", <item:storagedrawers:
 ]);
 
 craftingTable.addShaped("storagedrawers_compacting_drawers_3", <item:storagedrawers:compacting_drawers_3>, [
-    [<item:the_vault:chromatic_steel_ingot>, <item:the_vault:black_chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>],
+    [<item:the_vault:chromatic_steel_ingot>, <item:the_vault:vault_diamond>, <item:the_vault:chromatic_steel_ingot>],
     [<item:the_vault:extraordinary_larimar>, <tag:items:storagedrawers:drawers>, <item:the_vault:extraordinary_larimar>],
-    [<item:the_vault:chromatic_steel_ingot>, <item:the_vault:black_chromatic_steel_ingot>, <item:the_vault:chromatic_steel_ingot>]
+    [<item:the_vault:chromatic_steel_ingot>, <item:the_vault:vault_diamond>, <item:the_vault:chromatic_steel_ingot>]
 ]);
 
 craftingTable.addShaped("storagedrawers_key", <item:storagedrawers:drawer_key>, [

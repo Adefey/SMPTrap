@@ -159,7 +159,6 @@
           }
         ]
       }
-
     ],
     "PREFIX": [
       { "attribute": "the_vault:attack_damage",

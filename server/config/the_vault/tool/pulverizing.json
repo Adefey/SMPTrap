@@ -46,7 +46,7 @@
             },
             "count": {
               "type": "constant",
-              "count": 3
+              "count": 2
             }
           }
         ]
@@ -66,7 +66,7 @@
             },
             "count": {
               "type": "constant",
-              "count": 3
+              "count": 2
             }
           }
         ]
@@ -86,7 +86,7 @@
             },
             "count": {
               "type": "constant",
-              "count": 3
+              "count": 2
             }
           }
         ]
@@ -188,6 +188,106 @@
               "count": {
                 "type": "constant",
                 "count": 4
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "minecraft:polished_granite": [
+      {
+        "roll": {
+          "type": "constant",
+          "count": 1
+        },
+        "pool": [
+          {
+            "weight": 1,
+            "item": {
+              "id": "minecraft:granite",
+              "count": {
+                "type": "constant",
+                "count": 1
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "minecraft:polished_diorite": [
+      {
+        "roll": {
+          "type": "constant",
+          "count": 1
+        },
+        "pool": [
+          {
+            "weight": 1,
+            "item": {
+              "id": "minecraft:diorite",
+              "count": {
+                "type": "constant",
+                "count": 1
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "minecraft:polished_andesite": [
+      {
+        "roll": {
+          "type": "constant",
+          "count": 1
+        },
+        "pool": [
+          {
+            "weight": 1,
+            "item": {
+              "id": "minecraft:andesite",
+              "count": {
+                "type": "constant",
+                "count": 1
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "minecraft:quartz_block": [
+      {
+        "roll": {
+          "type": "constant",
+          "count": 1
+        },
+        "pool": [
+          {
+            "weight": 1,
+            "item": {
+              "id": "minecraft:quartz",
+              "count": {
+                "type": "constant",
+                "count": 1
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "minecraft:dripstone_block": [
+      {
+        "roll": {
+          "type": "constant",
+          "count": 1
+        },
+        "pool": [
+          {
+            "weight": 1,
+            "item": {
+              "id": "minecraft:pointed_dripstone",
+              "count": {
+                "type": "constant",
+                "count": 2
               }
             }
           }

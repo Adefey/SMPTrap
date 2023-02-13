@@ -1,0 +1,29 @@
+{
+  "jewelRecipes": [
+    {
+      "id": "the_vault:jewel",
+      "output": {
+        "AMOUNT": 1,
+        "ITEM": "the_vault:jewel",
+        "NBT": "{}"
+      },
+      "inputs": [
+        {
+          "AMOUNT": 2,
+          "ITEM": "the_vault:gemstone",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 2,
+          "ITEM": "the_vault:wutodic_silver_ingot",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 9,
+          "ITEM": "the_vault:vault_bronze",
+          "NBT": "{}"
+        }
+      ]
+    }
+  ]
+}

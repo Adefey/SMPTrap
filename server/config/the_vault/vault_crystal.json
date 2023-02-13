@@ -1088,7 +1088,7 @@
           "target": {
             "type": "uniform",
             "min": 20,
-            "max": 40
+            "max": 60
           }
         },
         "layout": {

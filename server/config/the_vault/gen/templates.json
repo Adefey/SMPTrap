@@ -4823,19 +4823,179 @@
       }
     },
     {
-      "id": "the_vault:vault/decor/mush_room/vine5",
-      "name": "Vine 5",
+      "id": "the_vault:vault/decor/mush_room/big_floor_mushroom1",
+      "name": "Mush-Room Big Floor Mushroom 1",
       "1.0": {
         "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/mush_room/vine5.nbt"
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/mush_room/big_floor_mushroom1.nbt"
       }
     },
     {
-      "id": "the_vault:vault/decor/mush_room/vine6",
-      "name": "Vine 6",
+      "id": "the_vault:vault/decor/mush_room/big_floor_mushroom2",
+      "name": "Mush-Room Big Floor Mushroom 2",
       "1.0": {
         "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/mush_room/vine6.nbt"
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/mush_room/big_floor_mushroom2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/mush_room/big_floor_mushroom3",
+      "name": "Mush-Room Big Floor Mushroom 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/mush_room/big_floor_mushroom3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/mush_room/big_floor_mushroom4",
+      "name": "Mush-Room Big Floor Mushroom 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/mush_room/big_floor_mushroom4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/mush_room/big_wall_mushroom1",
+      "name": "Mush-Room Big Wall Mushroom 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/mush_room/big_wall_mushroom1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/mush_room/big_wall_mushroom2",
+      "name": "Mush-Room Big Wall Mushroom 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/mush_room/big_wall_mushroom2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/mush_room/big_wall_mushroom3",
+      "name": "Mush-Room Big Wall Mushroom 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/mush_room/big_wall_mushroom3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/mush_room/big_wall_mushroom4",
+      "name": "Mush-Room Big Wall Mushroom 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/mush_room/big_wall_mushroom4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/mush_room/bigger_wall_mushroom1",
+      "name": "Mush-Room Bigger Wall Mushroom 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/mush_room/bigger_wall_mushroom1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/mush_room/bigger_wall_mushroom2",
+      "name": "Mush-Room Bigger Wall Mushroom 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/mush_room/bigger_wall_mushroom2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/mush_room/floor_mushroom1",
+      "name": "Mush-Room Floor Mushroom 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/mush_room/floor_mushroom1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/mush_room/floor_mushroom2",
+      "name": "Mush-Room Floor Mushroom 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/mush_room/floor_mushroom2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/mush_room/floor_mushroom3",
+      "name": "Mush-Room Floor Mushroom 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/mush_room/floor_mushroom3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/mush_room/floor_mushroom4",
+      "name": "Mush-Room Floor Mushroom 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/mush_room/floor_mushroom4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/mush_room/floor_mushroom5",
+      "name": "Mush-Room Floor Mushroom 5",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/mush_room/floor_mushroom5.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/mush_room/floor_mushroom6",
+      "name": "Mush-Room Floor Mushroom 6",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/mush_room/floor_mushroom6.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/mush_room/floor_mushroom7",
+      "name": "Mush-Room Floor Mushroom 7",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/mush_room/floor_mushroom7.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/mush_room/floor_mushroom8",
+      "name": "Mush-Room Floor Mushroom 8",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/mush_room/floor_mushroom8.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/mush_room/wall_mushroom1",
+      "name": "Mush-Room Wall Mushroom 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/mush_room/wall_mushroom1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/mush_room/wall_mushroom2",
+      "name": "Mush-Room Wall Mushroom 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/mush_room/wall_mushroom2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/mush_room/wall_mushroom3",
+      "name": "Mush-Room Wall Mushroom 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/mush_room/wall_mushroom3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/mush_room/wall_mushroom4",
+      "name": "Mush-Room Wall Mushroom 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/mush_room/wall_mushroom4.nbt"
       }
     },
     {

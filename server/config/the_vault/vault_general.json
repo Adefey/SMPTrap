@@ -5,6 +5,7 @@
 	"NO_EXIT_CHANCE": 10,
 	"OBELISK_DROP_CHANCE": 2,
 	"ITEM_BLACKLIST": [
+		"darkutils:*",
 		"minecraft:ender_chest",
 		"minecraft:lava_bucket",
 		"industrialforegoing:mob_crusher",
@@ -156,13 +157,19 @@
 		"botania:black_hole_talisman",
 		"botania:tornado_rod",
 		"botania:ender_dagger",
+		"minecraft:enchanted_golden_apple",
 		"supplementaries:safe",
+		"framedcompactdrawers:*",
+		"storagedrawers:*",
 		"minecraft:ender_pearl"
 	],
 	"BLOCK_BLACKLIST": [
+		"darkutils:*",
 		"refinedstorage:portable_grid",
 		"darkutils:vector_plate",
 		"ae2:*",
+		"storagedrawers:*",
+		"framedcompactdrawers:*",
 		"botania:*_spreader",
 		"botania:*_pool",
 		"botania:hourglass",

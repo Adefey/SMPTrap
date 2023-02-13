@@ -40,6 +40,16 @@
                     "output": {
                         "ispawner:spawner{ Manager:{ UsesLeft:3, Settings: { SpawnDelay: 40 } } } }": 1,
                         "ispawner:spawner{ Manager:{ UsesLeft:4, Settings: { SpawnDelay: 50 } } } }": 4,
+                        "ispawner:spawner{ Manager:{ UsesLeft:5, Settings: { SpawnDelay: 50 } } } }": 1
+                    }
+                },
+                {
+                    "level": 5,
+                    "type": "weighted_target",
+                    "target": "ispawner:spawner",
+                    "output": {
+                        "ispawner:spawner{ Manager:{ UsesLeft:3, Settings: { SpawnDelay: 40 } } } }": 1,
+                        "ispawner:spawner{ Manager:{ UsesLeft:4, Settings: { SpawnDelay: 50 } } } }": 4,
                         "ispawner:spawner{ Manager:{ UsesLeft:5, Settings: { SpawnDelay: 50 } } } }": 1,
                         "ispawner:spawner": 20
                     }

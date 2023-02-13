@@ -470,82 +470,30 @@
         "level": 0,
         "entries": [
           {
-            "min": 1,
-            "max": 1,
+            "min": 2,
+            "max": 2,
             "pool": [
               {
-                "value": "the_vault:prismatic",
-                "weight": 4
-              },
-              {
-                "value": "the_vault:haunted",
-                "weight": 12
-              },
-              {
-                "value": "the_vault:coin_pile",
-                "weight": 12
-              },
-              {
-                "value": "the_vault:gilded",
+                "value": "the_vault:cherry",
                 "weight": 10
               },
               {
-                "value": "the_vault:living",
-                "weight": 10
+                "value": "the_vault:cake_item_quantity",
+                "weight": 80
               },
               {
-                "value": "the_vault:ornate",
-                "weight": 10
-              },
-              {
-                "value": "the_vault:item_quantity",
-                "weight": 10
-              },
-              {
-                "value": "the_vault:item_rarity",
-                "weight": 8
-              },
-              {
-                "value": "the_vault:dummy",
-                "weight": 144
+                "value": "the_vault:cake_item_rarity",
+                "weight": 80
               }
             ]
           },
           {
-            "min": 1,
-            "max": 1,
+            "min": 2,
+            "max": 2,
             "pool": [
               {
-                "value": "the_vault:trapped",
+                "value": "the_vault:cake_furious_mobs",
                 "weight": 10
-              },
-              {
-                "value": "the_vault:chunky_mobs",
-                "weight": 8
-              },
-              {
-                "value": "the_vault:furious_mobs",
-                "weight": 8
-              },
-              {
-                "value": "the_vault:wild",
-                "weight": 12
-              },
-              {
-                "value": "the_vault:draining",
-                "weight": 8
-              },
-              {
-                "value": "the_vault:injured",
-                "weight": 4
-              },
-              {
-                "value": "the_vault:frail",
-                "weight": 10
-              },
-              {
-                "value": "the_vault:dummy",
-                "weight": 120
               }
             ]
           }
@@ -581,22 +529,6 @@
                 "weight": 10
               },
               {
-                "value": "the_vault:item_rarity",
-                "weight": 6
-              },
-              {
-                "value": "the_vault:item_quantity",
-                "weight": 6
-              },
-              {
-                "value": "the_vault:haunted",
-                "weight": 10
-              },
-              {
-                "value": "the_vault:prosperous",
-                "weight": 1
-              },
-              {
                 "value": "the_vault:extended",
                 "weight": 10
               }
@@ -615,22 +547,6 @@
             "pool": [
               {
                 "value": "the_vault:injured",
-                "weight": 6
-              },
-              {
-                "value": "the_vault:draining",
-                "weight": 20
-              },
-              {
-                "value": "the_vault:poisonous",
-                "weight": 6
-              },
-              {
-                "value": "the_vault:freezing",
-                "weight": 6
-              },
-              {
-                "value": "the_vault:voiding",
                 "weight": 6
               },
               {
@@ -797,23 +713,19 @@
                 "weight": 8
               },
               {
-                "value": "the_vault:crab_walk",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:confused",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:jupiter_gravity",
-                "weight": 8
-              },
-              {
                 "value": "the_vault:explosive",
                 "weight": 4
               },
               {
                 "value": "the_vault:shulker",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:poor",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:unlucky",
                 "weight": 10
               }
             ]
@@ -949,18 +861,6 @@
               },
               {
                 "value": "the_vault:volcanic",
-                "weight": 8
-              },
-              {
-                "value": "the_vault:crab_walk",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:confused",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:jupiter_gravity",
                 "weight": 8
               },
               {

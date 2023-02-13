@@ -81,6 +81,18 @@
       }
     },
     "the_vault:modifier_type/chance_soul_shard": {
+      "the_vault:cake_haunted": {
+        "properties": {
+          "chance": 0.1
+        },
+        "display": {
+          "name": "Haunted",
+          "color": "#6410A1",
+          "description": "+10% Soul Shard Drop Rate",
+          "descriptionFormatted": "+%d%% Soul Shards",
+          "icon": "the_vault:gui/modifiers/haunted"
+        }
+      },
       "the_vault:haunted": {
         "properties": {
           "chance": 0.5
@@ -246,6 +258,30 @@
           "icon": "the_vault:gui/modifiers/opulent"
         }
       },
+      "the_vault:cake_item_quantity": {
+        "properties": {
+          "percentage": 0.01
+        },
+        "display": {
+          "name": "Delicious",
+          "color": "#38C9C0",
+          "description": "+1% Item Quantity",
+          "descriptionFormatted": "+%d%% Item Quantity",
+          "icon": "the_vault:gui/modifiers/opulent"
+        }
+      },
+      "the_vault:poor": {
+        "properties": {
+          "percentage": -0.25
+        },
+        "display": {
+          "name": "Poor",
+          "color": "#38C9C0",
+          "description": "-25% Item Quantity",
+          "descriptionFormatted": "-%d%% Item Quantity",
+          "icon": "the_vault:gui/modifiers/poor"
+        }
+      },
       "the_vault:tenos_favour_2": {
         "properties": {
           "percentage": 0.01,
@@ -263,6 +299,18 @@
       }
     },
     "the_vault:modifier_type/loot_item_rarity": {
+      "the_vault:cake_item_rarity": {
+        "properties": {
+          "percentage": 0.01
+        },
+        "display": {
+          "name": "Sweet",
+          "color": "#b3ff20",
+          "description": "+1% Item Rarity",
+          "descriptionFormatted": "+%d%% Item Rarity",
+          "icon": "the_vault:gui/modifiers/lucky"
+        }
+      },
       "the_vault:item_rarity": {
         "properties": {
           "percentage": 0.05
@@ -273,6 +321,18 @@
           "description": "+5% Item Rarity",
           "descriptionFormatted": "+%d%% Item Rarity",
           "icon": "the_vault:gui/modifiers/lucky"
+        }
+      },
+      "the_vault:unlucky": {
+        "properties": {
+          "percentage": -0.5
+        },
+        "display": {
+          "name": "Lucky",
+          "color": "#b3ff20",
+          "description": "-50% Item Rarity",
+          "descriptionFormatted": "-%d%% Item Rarity",
+          "icon": "the_vault:gui/modifiers/unlucky"
         }
       },
       "the_vault:tenos_favour_1": {
@@ -318,6 +378,20 @@
           "description": "+20% Mob Damage",
           "descriptionFormatted": "+%d%% Mob Damage",
           "icon": "the_vault:gui/modifiers/furious"
+        }
+      },
+      "the_vault:cake_furious_mobs": {
+        "properties": {
+          "type": "attack_damage_additive_percentile",
+          "amount": 0.01,
+          "attributeStackingStrategy": "STACK"
+        },
+        "display": {
+          "name": "Anger",
+          "color": "#da6d5a",
+          "description": "+1% Mob Damage",
+          "descriptionFormatted": "+%d%% Mob Damage",
+          "icon": "the_vault:gui/modifiers/frenzy"
         }
       },
       "the_vault:infuriated_mobs": {
@@ -727,21 +801,6 @@
           "icon": "the_vault:gui/modifiers/tired"
         }
       },
-      "the_vault:unlucky": {
-        "properties": {
-          "effect": "minecraft:unluck",
-          "effectAmplifier": 1,
-          "operator": "add",
-          "type": "icon_only"
-        },
-        "display": {
-          "name": "Unlucky",
-          "color": "#9F5300",
-          "description": "-1 Luck",
-          "descriptionFormatted": "-%d Luck",
-          "icon": "the_vault:gui/modifiers/unlucky"
-        }
-      },
       "the_vault:weakened": {
         "properties": {
           "effect": "minecraft:weakness",
@@ -811,12 +870,13 @@
         "properties": {
           "preventsArtifact": false,
           "experienceMultiplierOnDeath": 0.0,
-          "experienceMultiplierOnSuccess": 0.5
+          "experienceMultiplierOnSuccess": 0.5,
+          "isInstantRevival": false
         },
         "display": {
           "name": "Afterlife",
           "color": "#0FA6E3",
-          "description": "All items you entered with will be restored on death; No artifact can be found",
+          "description": "If killed in the vault you will keep your inventory but receive a durability penalty.",
           "icon": "the_vault:gui/modifiers/afterlife"
         }
       },
@@ -824,12 +884,13 @@
         "properties": {
           "preventsArtifact": false,
           "experienceMultiplierOnDeath": 0.0,
-          "experienceMultiplierOnSuccess": 1.0
+          "experienceMultiplierOnSuccess": 1.0,
+          "isInstantRevival": true
         },
         "display": {
           "name": "Phoenix",
           "color": "#FF8900",
-          "description": "All items you entered with will be restored on death",
+          "description": "If killed in a vault you will be revived instantly and the Phoenix modifier will fizzle",
           "icon": "the_vault:gui/modifiers/phoenix"
         }
       },
@@ -837,12 +898,27 @@
         "properties": {
           "preventsArtifact": false,
           "experienceMultiplierOnDeath": 0.0,
-          "experienceMultiplierOnSuccess": 1.0
+          "experienceMultiplierOnSuccess": 1.0,
+          "isInstantRevival": false
         },
         "display": {
           "name": "Beginners Grace",
           "color": "#FF8900",
-          "description": "All items you entered with will be restored on death; No experience on death",
+          "description": "If killed in the vault you will keep your inventory but receive a durability penalty.",
+          "icon": "the_vault:gui/modifiers/beginners_grace"
+        }
+      },
+      "the_vault:casual": {
+        "properties": {
+          "preventsArtifact": false,
+          "experienceMultiplierOnDeath": 0.0,
+          "experienceMultiplierOnSuccess": 1.0,
+          "isInstantRevival": false
+        },
+        "display": {
+          "name": "Casual Mode",
+          "color": "#FF8900",
+          "description": "If killed in the vault you will keep your inventory but receive a durability penalty.",
           "icon": "the_vault:gui/modifiers/beginners_grace"
         }
       }
@@ -1018,6 +1094,18 @@
           "color": "#2F86AE",
           "description": "+1 minute Vault Time",
           "descriptionFormatted": "+%d minutes Vault Time",
+          "icon": "the_vault:gui/modifiers/extended"
+        }
+      },
+      "the_vault:cherry": {
+        "properties": {
+          "timeAddedTicks": 600
+        },
+        "display": {
+          "name": "Cherry",
+          "color": "#2F86AE",
+          "description": "+30 seconds Vault Time",
+          "descriptionFormatted": "+%d seconds Vault Time",
           "icon": "the_vault:gui/modifiers/extended"
         }
       },

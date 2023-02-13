@@ -1,16 +1,17 @@
 {
+  "catalystMinLevel": 24,
   "catalystChances": {
     "the_vault:wooden_chest": {
-      "RARE": 0.1,
-      "EPIC": 0.3,
+      "RARE": 0.15,
+      "EPIC": 0.35,
       "COMMON": 0.0,
-      "OMEGA": 0.6
+      "OMEGA": 0.65
     },
     "the_vault:gilded_chest": {
-      "RARE": 0.3,
-      "EPIC": 0.6,
-      "COMMON": 0.1,
-      "OMEGA": 0.8
+      "RARE": 0.0,
+      "EPIC": 0.0,
+      "COMMON": 0.0,
+      "OMEGA": 0.0
     },
     "the_vault:living_chest": {
       "RARE": 0.0,

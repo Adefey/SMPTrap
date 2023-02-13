@@ -10,4 +10,5 @@ services:
       - ./server:/home
     ports:
       - 25565:25565
+      - 25575:25575
     restart: always

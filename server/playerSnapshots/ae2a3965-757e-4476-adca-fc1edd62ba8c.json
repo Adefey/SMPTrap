@@ -1,0 +1,93 @@
+{
+  "playerUUID": "ae2a3965-757e-4476-adca-fc1edd62ba8c",
+  "playerNickname": "Tesen_Desk",
+  "timestamp": 1676319162,
+  "completed": 6,
+  "survived": 29,
+  "failed": 78,
+  "artifactCount": 0,
+  "inVault": false,
+  "powerLevel": 5,
+  "vaultLevel": 5,
+  "levelPercent": 0.742,
+  "attributes": {
+    "minecraft:generic.max_health": 20.0,
+    "minecraft:generic.knockback_resistance": 0.0,
+    "minecraft:generic.movement_speed": 0.12000000208616257,
+    "minecraft:generic.attack_damage": 1.0,
+    "minecraft:generic.attack_knockback": 0.0,
+    "minecraft:generic.attack_speed": 4.0,
+    "minecraft:generic.armor": 11.0,
+    "minecraft:generic.armor_toughness": 0.0,
+    "minecraft:generic.luck": 0.0,
+    "botania:pixie_spawn_chance": 0.0,
+    "forge:swim_speed": 1.0,
+    "forge:nametag_distance": 64.0,
+    "forge:entity_gravity": 0.08,
+    "forge:reach_distance": 4.5,
+    "forge:attack_range": 3.0,
+    "forge:step_height_addition": 0.0,
+    "the_vault:generic.crit_chance": 0.0,
+    "the_vault:generic.crit_multiplier": 0.0,
+    "the_vault:generic.tp_chance": 0.0,
+    "the_vault:generic.indirect_tp_chance": 0.0,
+    "the_vault:generic.tp_range": 32.0,
+    "the_vault:generic.potion_resistance": 0.0,
+    "the_vault:generic.size_scale": 1.0,
+    "the_vault:generic.break_armor_chance": 0.0,
+    "the_vault:generic.mana_max": 100.0,
+    "the_vault:generic.mana_regen": 0.75,
+    "the_vault:generic.reach": 0.0,
+    "the_vault:generic.crossbow_charge_time": 0.0,
+    "the_vault:generic.thorns_chance": 0.0,
+    "the_vault:generic.thorns_damage": 0.0
+  },
+  "reputation": {
+    "Velara": 0,
+    "Tenos": 0,
+    "Wendarr": 0,
+    "Idona": 0
+  },
+  "blockChance": 0.0,
+  "resistance": 0.0,
+  "cooldownReduction": 0.0,
+  "fatalStrikeChance": 0.0,
+  "fatalStrikeDamage": 0.0,
+  "thornsChance": 0.0,
+  "thornsDamage": 0.0,
+  "equipment": {
+    "FEET": {
+      "itemKey": "minecraft:diamond_boots",
+      "count": 1,
+      "nbt": "{Damage:4,Enchantments:[{id:\"minecraft:unbreaking\",lvl:3s}]}",
+      "gearData": "{\"id\":\"5d270a1e-438d-4453-9d5a-f02cca8280b7\",\"attributes\":[]}"
+    },
+    "LEGS": {
+      "itemKey": "minecraft:netherite_leggings",
+      "count": 1,
+      "nbt": "{Damage:7,Enchantments:[{id:\"minecraft:unbreaking\",lvl:3s}],RepairCost:0,display:{Name:\u0027{\"text\":\"Черные джинсы из Wildberries\"}\u0027}}",
+      "gearData": "{\"id\":\"bd143e5e-2ce8-4fbd-b013-a3be2587f807\",\"attributes\":[]}"
+    },
+    "CHEST": {
+      "itemKey": "minecraft:diamond_chestplate",
+      "count": 1,
+      "nbt": "{Damage:317,Enchantments:[{id:\"minecraft:unbreaking\",lvl:3s},{id:\"minecraft:thorns\",lvl:2s}]}",
+      "gearData": "{\"id\":\"b8c2851f-31f2-44ed-a028-77a78c7152dc\",\"attributes\":[]}"
+    },
+    "HEAD": {
+      "itemKey": "minecraft:diamond_helmet",
+      "count": 1,
+      "nbt": "{Damage:37,Enchantments:[{id:\"minecraft:unbreaking\",lvl:3s},{id:\"minecraft:respiration\",lvl:3s}]}",
+      "gearData": "{\"id\":\"01247a0f-326e-4fac-87c8-3fa3ffdd6f43\",\"attributes\":[]}"
+    }
+  },
+  "abilities": {
+    "Heal: Aid": 2,
+    "Hunter: Observer": 1
+  },
+  "talents": {
+    "Speed": 1
+  },
+  "researches": [],
+  "eternals": []
+}
